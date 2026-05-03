@@ -1,0 +1,7296 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-03",
+  "fruits": {
+    "mango": {
+      "id": "mango",
+      "names": {
+        "zh": "芒果",
+        "zh_alt": [
+          "檬果"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "芒果",
+      "family": null,
+      "intro": "漆樹科芒果屬的常綠喬木果實，台灣為亞熱帶最重要的夏季水果之一。果肉橙黃多汁、香氣濃郁，果核扁平。台南玉井是台灣芒果集散重鎮，盛夏 5-8 月為產季。果實成熟時由綠轉黃或紅，依品種色澤不同。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "屏東",
+        "高雄"
+      ],
+      "varieties": [
+        "愛文",
+        "金煌",
+        "凱特",
+        "黑香",
+        "夏雪",
+        "土芒果"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "維生素 C",
+        "膳食纖維",
+        "β-胡蘿蔔素"
+      ],
+      "storage": "未熟可常溫熟成，成熟後冷藏 3-5 天內食用；切塊冷凍可保存 2-3 個月做冰沙。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-160 元/斤",
+          "note": "市場價較高"
+        },
+        {
+          "region": "中部",
+          "range": "60-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-100 元/斤",
+          "note": "產地直送最便宜"
+        },
+        {
+          "region": "東部",
+          "range": "80-150 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-mango.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+    },
+    "lychee": {
+      "id": "lychee",
+      "names": {
+        "zh": "荔枝",
+        "zh_alt": [
+          "離枝",
+          "丹荔"
+        ],
+        "en": null,
+        "scientific": "Litchi chinensis"
+      },
+      "wiki_title": "荔枝",
+      "family": null,
+      "intro": "無患子科荔枝屬的常綠喬木果實。粗糙紅殼包覆白色半透明果肉，多汁清甜。蘇東坡名句「日啖荔枝三百顆，不辭長作嶺南人」即指此果。台灣以高雄大樹、南投中寮為著名產地，5-7 月短暫產期。",
+      "season_months": [
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "高雄",
+        "南投",
+        "彰化"
+      ],
+      "varieties": [
+        "黑葉",
+        "玉荷包",
+        "糯米糍",
+        "桂味"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "醣類"
+      ],
+      "storage": "冷藏 3-5 天，常溫易變色變味；冷凍可保存 1 個月。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "150-300 元/斤",
+          "note": "玉荷包最貴"
+        },
+        {
+          "region": "中部",
+          "range": "120-250 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "80-200 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "150-280 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Litchi_chinensis_Luc_Viatour.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-lychee.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Litchi_chinensis_Luc_Viatour.jpg",
+      "wiki_image": "Litchi_chinensis_Luc_Viatour.jpg"
+    },
+    "longan": {
+      "id": "longan",
+      "names": {
+        "zh": "龍眼",
+        "zh_alt": [
+          "桂圓"
+        ],
+        "en": null,
+        "scientific": "Dimocarpus longan"
+      },
+      "wiki_title": "龍眼",
+      "family": null,
+      "intro": "無患子科龍眼屬的常綠喬木果實。淡褐色硬殼包覆白色透明果肉，內有黑色種子。乾燥後即為桂圓，是傳統補血食材。台南東山、高雄燕巢為主要產區。產季比荔枝晚約一個月。",
+      "season_months": [
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "高雄",
+        "南投"
+      ],
+      "varieties": [
+        "粉殼",
+        "紅殼",
+        "潤枝"
+      ],
+      "nutrition": [
+        "鉀",
+        "維生素 C",
+        "鐵質"
+      ],
+      "storage": "冷藏 3-5 天；曬乾或烘烤製成桂圓可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-80 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "60-120 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dimocarpus_longan_fruits.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-longan.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dimocarpus_longan_fruits.jpg",
+      "wiki_image": "Dimocarpus_longan_fruits.jpg"
+    },
+    "pineapple": {
+      "id": "pineapple",
+      "names": {
+        "zh": "鳳梨",
+        "zh_alt": [
+          "菠蘿"
+        ],
+        "en": null,
+        "scientific": "Ananas comosus"
+      },
+      "wiki_title": "鳳梨",
+      "family": null,
+      "intro": "鳳梨科鳳梨屬的多年生草本果實，並非樹上長的水果。果實由多個小果聚合而成，葉片如鳳尾故得名。台灣鳳梨外銷量大，台南關廟、屏東高樹為主要產地。3-7 月為盛產期，但可全年供應。",
+      "season_months": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "屏東",
+        "嘉義"
+      ],
+      "varieties": [
+        "金鑽鳳梨",
+        "牛奶鳳梨",
+        "蘋果鳳梨",
+        "甜蜜蜜",
+        "釋迦鳳梨"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鳳梨酵素",
+        "錳",
+        "膳食纖維"
+      ],
+      "storage": "未切常溫 3-5 天；切塊冷藏 2-3 天；冷凍可做冰沙。鳳梨酵素可助消化但會麻嘴。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-60 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-50 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-45 元/斤",
+          "note": "產地最便宜"
+        },
+        {
+          "region": "東部",
+          "range": "30-55 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pineapple_Oahu.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-pineapple.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pineapple_Oahu.jpg",
+      "wiki_image": "Pineapple_Oahu.jpg"
+    },
+    "banana": {
+      "id": "banana",
+      "names": {
+        "zh": "香蕉",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "香蕉",
+      "family": null,
+      "intro": "芭蕉科芭蕉屬的多年生草本果實，全年皆可生產，是世界產量最大的水果之一。台灣高雄、屏東為主要產區，山蕉、北蕉風味甜美外銷日本。果皮由綠轉黃為熟成指標。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投",
+        "高雄",
+        "屏東",
+        "台中"
+      ],
+      "varieties": [
+        "北蕉",
+        "山蕉",
+        "玉山蕉",
+        "粉蕉",
+        "蘋果蕉"
+      ],
+      "nutrition": [
+        "鉀",
+        "維生素 B6",
+        "膳食纖維",
+        "色胺酸"
+      ],
+      "storage": "常溫熟成，避免冷藏（會發黑）；過熟可剝皮冷凍做香蕉冰。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-50 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-45 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-40 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "30-50 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:2018_06_TropicalIslands_IMG_2170.jpg",
+        "license": "GFDL 1.2",
+        "local": "data/covers/fruit-banana.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2018_06_TropicalIslands_IMG_2170.jpg",
+      "wiki_image": "2018_06_TropicalIslands_IMG_2170.jpg"
+    },
+    "watermelon": {
+      "id": "watermelon",
+      "names": {
+        "zh": "西瓜",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Citrullus lanatus"
+      },
+      "wiki_title": "西瓜",
+      "family": null,
+      "intro": "葫蘆科西瓜屬的一年生草本，果實碩大水分豐沛，是夏日消暑聖品。台灣以雲林二崙、嘉義溪口、花蓮鳳林為主要產區。一顆完整大西瓜可達 10 公斤以上，小玉西瓜則 1-3 公斤。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "嘉義",
+        "花蓮"
+      ],
+      "varieties": [
+        "華寶",
+        "黑美人",
+        "小玉西瓜",
+        "黃肉西瓜",
+        "無籽西瓜"
+      ],
+      "nutrition": [
+        "水分（92%）",
+        "茄紅素",
+        "維生素 C",
+        "瓜胺酸"
+      ],
+      "storage": "未切常溫 5-7 天；切開後冷藏並覆蓋保鮮膜，2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "15-30 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "12-25 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "10-22 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "15-30 元/斤",
+          "note": "花蓮西瓜知名"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Watermelon-garden.jpg",
+        "license": "CC BY 2.0",
+        "local": "data/covers/fruit-watermelon.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg",
+      "wiki_image": "Watermelon-garden.jpg"
+    },
+    "papaya": {
+      "id": "papaya",
+      "names": {
+        "zh": "木瓜",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "木瓜",
+      "family": "蔷薇科",
+      "intro": "番木瓜科番木瓜屬的常綠小喬木果實。橙黃色果肉柔軟，中央有大量黑色種子。台灣全年皆有產，台南、屏東為主產區。木瓜酵素可助蛋白質消化，是台灣餐桌常見水果。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "屏東",
+        "高雄"
+      ],
+      "varieties": [
+        "台農 2 號",
+        "日陞",
+        "紅妃",
+        "夏威夷木瓜"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "維生素 A",
+        "木瓜酵素",
+        "葉酸"
+      ],
+      "storage": "未熟常溫熟成 3-7 天；成熟後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-60 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-50 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-45 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "30-55 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "dragon-fruit": {
+      "id": "dragon-fruit",
+      "names": {
+        "zh": "火龍果",
+        "zh_alt": [
+          "紅龍果",
+          "仙人果"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "火龍果",
+      "family": null,
+      "intro": "仙人掌科量天尺屬的多年生攀援果實。鮮豔紅或粉紅色外皮、長著綠色鱗片，果肉白色或紅色，內含眾多黑色小籽。彰化、屏東為主要產地，6-11 月為盛產期。低糖高纖維，近年成為熱門健康水果。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "彰化",
+        "南投",
+        "屏東"
+      ],
+      "varieties": [
+        "白肉火龍果",
+        "紅肉火龍果",
+        "燕窩果（黃皮）"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C",
+        "鎂",
+        "甜菜紅素（紅肉品種）"
+      ],
+      "storage": "冷藏 5-7 天；切開後冷藏 1-2 天內食用為佳。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-80 元/斤",
+          "note": "紅肉品種較貴"
+        },
+        {
+          "region": "中部",
+          "range": "35-70 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "30-60 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "40-75 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pitaya_cross_section_ed2.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-dragon-fruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pitaya_cross_section_ed2.jpg",
+      "wiki_image": "Pitaya_cross_section_ed2.jpg"
+    },
+    "passion-fruit": {
+      "id": "passion-fruit",
+      "names": {
+        "zh": "百香果",
+        "zh_alt": [
+          "西番蓮",
+          "雞蛋果"
+        ],
+        "en": null,
+        "scientific": "Passiflora edulis"
+      },
+      "wiki_title": "西番蓮",
+      "family": null,
+      "intro": "西番蓮科西番蓮屬的多年生藤本植物果實。紫色或黃色硬殼包覆芳香果汁與黑色種子，獨特酸甜風味成為飲品與甜點必備。南投埔里為台灣最大產區，7-11 月為盛產期。",
+      "season_months": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投",
+        "花蓮",
+        "嘉義"
+      ],
+      "varieties": [
+        "台農 1 號",
+        "黃金百香果",
+        "滿天星"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "維生素 A",
+        "鉀"
+      ],
+      "storage": "常溫 3-5 天；冷藏 1-2 週；果皮起皺紋反而更香甜。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤",
+          "note": "南投埔里為主產地"
+        },
+        {
+          "region": "南部",
+          "range": "60-110 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "70-130 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Passiflora_edulis_forma_flavicarpa.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-passion-fruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Passiflora_edulis_forma_flavicarpa.jpg",
+      "wiki_image": "Passiflora_edulis_forma_flavicarpa.jpg"
+    },
+    "guava": {
+      "id": "guava",
+      "names": {
+        "zh": "芭樂",
+        "zh_alt": [
+          "番石榴",
+          "拔仔"
+        ],
+        "en": null,
+        "scientific": "Psidium guajava"
+      },
+      "wiki_title": "番石榴",
+      "family": null,
+      "intro": "桃金孃科番石榴屬的常綠小喬木果實。台灣俗稱「芭樂」，是全年可採的常民水果。果肉清脆爽口，維生素 C 含量是柑橘的數倍。高雄燕巢、彰化社頭為主要產區。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "高雄",
+        "彰化",
+        "台南"
+      ],
+      "varieties": [
+        "珍珠芭樂",
+        "帝王芭樂",
+        "牛奶芭樂",
+        "紅心芭樂",
+        "水晶芭樂"
+      ],
+      "nutrition": [
+        "維生素 C（極高）",
+        "膳食纖維",
+        "鉀",
+        "番茄紅素（紅心）"
+      ],
+      "storage": "常溫 3-5 天；冷藏 1 週；切開立即食用避免氧化變色。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-60 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-50 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-45 元/斤",
+          "note": "高雄燕巢產地"
+        },
+        {
+          "region": "東部",
+          "range": "30-55 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Psidium_guajava_fruit.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-guava.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Psidium_guajava_fruit.jpg",
+      "wiki_image": "Psidium_guajava_fruit.jpg"
+    },
+    "wax-apple": {
+      "id": "wax-apple",
+      "names": {
+        "zh": "蓮霧",
+        "zh_alt": [
+          "天桃",
+          "紫蒲桃"
+        ],
+        "en": null,
+        "scientific": "Syzygium samarangense"
+      },
+      "wiki_title": "蓮霧",
+      "family": null,
+      "intro": "桃金孃科赤楠屬的常綠喬木果實。鈴鐺形紅或紫紅色果實，質地清脆水分多。屏東黑珍珠蓮霧因色澤深紅、糖度高聞名，外銷中港新加坡。冬末初夏 12-5 月為盛產期。",
+      "season_months": [
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東",
+        "高雄",
+        "宜蘭"
+      ],
+      "varieties": [
+        "黑珍珠",
+        "黑鑽石",
+        "白蓮霧",
+        "粉紅蓮霧"
+      ],
+      "nutrition": [
+        "水分",
+        "維生素 C",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 1 週內最佳；常溫 2-3 天；輕拭即食不需削皮。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-150 元/斤",
+          "note": "黑珍珠最貴"
+        },
+        {
+          "region": "中部",
+          "range": "50-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-110 元/斤",
+          "note": "屏東產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "60-140 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lainwu_%28Wax_apple%29_WP_001223.jpg",
+        "license": "CC BY 3.0",
+        "local": "data/covers/fruit-wax-apple.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lainwu_%28Wax_apple%29_WP_001223.jpg",
+      "wiki_image": "Lainwu_(Wax_apple)_WP_001223.jpg"
+    },
+    "starfruit": {
+      "id": "starfruit",
+      "names": {
+        "zh": "楊桃",
+        "zh_alt": [
+          "陽桃",
+          "五歛子"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "陽桃",
+      "family": null,
+      "intro": "酢漿草科陽桃屬的常綠小喬木果實。橫切呈五角星形是其招牌特色，故名「楊桃」（陽桃）。果汁清涼甘甜微酸，台南楠西、苗栗卓蘭為主產地。9 月至隔年 2 月為產季。",
+      "season_months": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "苗栗",
+        "彰化"
+      ],
+      "varieties": [
+        "軟枝",
+        "馬來西亞種",
+        "蜜絲楊桃"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 5-7 天；常溫 2-3 天；腎功能不佳者應節制食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-80 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "35-70 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "30-60 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "40-75 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+        "license": "CC BY-SA 2.5",
+        "local": "data/covers/fruit-starfruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/3840px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+      "wiki_image": "Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg"
+    },
+    "sugar-apple": {
+      "id": "sugar-apple",
+      "names": {
+        "zh": "釋迦",
+        "zh_alt": [
+          "番荔枝",
+          "佛頭果"
+        ],
+        "en": null,
+        "scientific": "Annona squamosa"
+      },
+      "wiki_title": "番荔枝",
+      "family": null,
+      "intro": "番荔枝科番荔枝屬的小喬木果實。表面凸起如佛頭故又稱「佛頭果」，果肉乳白色甜蜜如冰淇淋。台東卑南、太麻里為台灣最重要產區，是台東代表水果。9 月至隔年 3 月為產季。",
+      "season_months": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台東"
+      ],
+      "varieties": [
+        "大目釋迦",
+        "軟枝種"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "硬時常溫熟成 3-5 天；觸感微軟即可食用，熟後冷藏 1-2 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "55-110 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "40-90 元/斤",
+          "note": "台東產地最便宜"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Annona_squamosa_fruit.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-sugar-apple.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Annona_squamosa_fruit.jpg/3840px-Annona_squamosa_fruit.jpg",
+      "wiki_image": "Annona_squamosa_fruit.jpg"
+    },
+    "atemoya": {
+      "id": "atemoya",
+      "names": {
+        "zh": "鳳梨釋迦",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Annona ×"
+      },
+      "wiki_title": "鳳梨釋迦",
+      "family": null,
+      "intro": "番荔枝科番荔枝屬的釋迦改良品種，由番荔枝與冷子番荔枝雜交而成。表皮光滑、果肉細緻多汁、香氣特殊，比一般釋迦更甜更彈。台東為主產地，11 月至隔年 3 月為產季。是台灣外銷高端水果。",
+      "season_months": [
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台東"
+      ],
+      "varieties": [
+        "紅鑽",
+        "綠鑽",
+        "AP 系列"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "膳食纖維",
+        "維生素 B6"
+      ],
+      "storage": "硬時常溫熟成；軟熟後冷藏 1-2 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-180 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "90-160 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-170 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "70-140 元/斤",
+          "note": "台東產地"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Atemola_%28cross_of_Annona_cherimola_and_Annona_squamosa%29.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-atemoya.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Atemola_%28cross_of_Annona_cherimola_and_Annona_squamosa%29.jpg",
+      "wiki_image": "Atemola_(cross_of_Annona_cherimola_and_Annona_squamosa).jpg"
+    },
+    "durian": {
+      "id": "durian",
+      "names": {
+        "zh": "榴槤",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "榴槤",
+      "family": null,
+      "intro": "錦葵科榴槤屬的大喬木果實，被稱為「水果之王」。外殼布滿尖刺，果肉乳黃色濃郁，氣味強烈。屏東有少量栽培但多為進口（泰國、馬來西亞）。喜愛者讚不絕口，不喜者避之唯恐不及。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東"
+      ],
+      "varieties": [
+        "金枕頭",
+        "貓山王",
+        "D24",
+        "干堯"
+      ],
+      "nutrition": [
+        "熱量高",
+        "維生素 C",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "未開殼常溫 3-5 天；開殼後冷藏 1 天內食用；冷凍可保存風味。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-500 元/斤",
+          "note": "貓山王最貴"
+        },
+        {
+          "region": "中部",
+          "range": "180-450 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "180-450 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-500 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Durio_Zibethinus_Van_Nooten.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-durian.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Durio_Zibethinus_Van_Nooten.jpg",
+      "wiki_image": "Durio_Zibethinus_Van_Nooten.jpg"
+    },
+    "jackfruit": {
+      "id": "jackfruit",
+      "names": {
+        "zh": "波羅蜜",
+        "zh_alt": [
+          "菠蘿蜜"
+        ],
+        "en": null,
+        "scientific": "Artocarpus heterophyllus"
+      },
+      "wiki_title": "波羅蜜",
+      "family": null,
+      "intro": "桑科菠蘿蜜屬的大喬木果實，是世界最大的樹生水果，單顆可達 30 公斤以上。果肉金黃色甜香，可生食或料理。屏東、嘉義有少量栽培。果肉與竹筍口感相近的還可入菜。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東",
+        "嘉義"
+      ],
+      "varieties": [
+        "乾苞",
+        "濕苞",
+        "黃肉品種"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "膳食纖維",
+        "鎂"
+      ],
+      "storage": "未切冷藏 1 週；切後冷藏 3-5 天；冷凍可保存 1 個月。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-90 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "60-110 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jackfruit_Bangladesh_%283%29.JPG",
+        "license": "CC BY 3.0",
+        "local": "data/covers/fruit-jackfruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jackfruit_Bangladesh_%283%29.JPG",
+      "wiki_image": "Jackfruit_Bangladesh_(3).JPG"
+    },
+    "avocado": {
+      "id": "avocado",
+      "names": {
+        "zh": "酪梨",
+        "zh_alt": [
+          "鱷梨",
+          "牛油果"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "鱷梨",
+      "family": null,
+      "intro": "樟科鱷梨屬的常綠喬木果實。果肉濃郁滑順、富含好油脂，是「最營養的水果」之一。台灣台南大內、麻豆為主要產地，6 月底至隔年 2 月為盛產期。可做生菜沙拉、酪梨牛奶、墨西哥酪梨醬。",
+      "season_months": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "嘉義"
+      ],
+      "varieties": [
+        "哈斯（Hass）",
+        "格溫（Gwen）",
+        "本土種",
+        "Pollock"
+      ],
+      "nutrition": [
+        "單元不飽和脂肪酸",
+        "維生素 E",
+        "鉀",
+        "葉酸"
+      ],
+      "storage": "硬時常溫熟成 3-5 天；微軟可食，剖開後冷藏 1 天內食用；防氧化可滴檸檬汁。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-150 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "60-120 元/斤",
+          "note": "台南產地"
+        },
+        {
+          "region": "東部",
+          "range": "80-150 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Persea_americana_fruit_2.JPG",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-avocado.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Persea_americana_fruit_2.JPG",
+      "wiki_image": "Persea_americana_fruit_2.JPG"
+    },
+    "ponkan": {
+      "id": "ponkan",
+      "names": {
+        "zh": "椪柑",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "椪柑",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠小喬木果實。皮鬆易剝、果肉甜中帶酸，是台灣冬季最受歡迎的柑橘類。雲林古坑、嘉義番路、苗栗東勢為主要產區。11 月至隔年 1 月為盛產期。",
+      "season_months": [
+        11,
+        12,
+        1
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "嘉義",
+        "苗栗"
+      ],
+      "varieties": [
+        "高朗一號",
+        "晚崙夏臍橙系"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "類黃酮"
+      ],
+      "storage": "冷藏 2-3 週；常溫陰涼處 1 週；剝皮後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-70 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-60 元/斤",
+          "note": "雲林古坑產地"
+        },
+        {
+          "region": "南部",
+          "range": "30-65 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "35-70 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mandariner_Citrus_deliciosa.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-ponkan.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mandariner_Citrus_deliciosa.jpg",
+      "wiki_image": "Mandariner_Citrus_deliciosa.jpg"
+    },
+    "tangerine": {
+      "id": "tangerine",
+      "names": {
+        "zh": "桶柑",
+        "zh_alt": [
+          "年柑"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "桶柑",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠小喬木果實。皮較椪柑緊實、外型橢圓，常於春節期間上市，故又稱「年柑」。新竹、苗栗、台中為主產區。1 月至 3 月為盛產期。",
+      "season_months": [
+        1,
+        2,
+        3
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "新竹",
+        "苗栗",
+        "台中"
+      ],
+      "varieties": [
+        "新竹桶柑",
+        "海梨柑"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 2-3 週；常溫陰涼處 1 週。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-60 元/斤",
+          "note": "新竹苗栗產地"
+        },
+        {
+          "region": "中部",
+          "range": "25-55 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "35-65 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "35-65 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_tankan.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-tangerine.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Citrus_tankan.jpg",
+      "wiki_image": "Citrus_tankan.jpg"
+    },
+    "orange": {
+      "id": "orange",
+      "names": {
+        "zh": "柳橙",
+        "zh_alt": [
+          "柳丁",
+          "甜橙"
+        ],
+        "en": null,
+        "scientific": "Citrus sinensis"
+      },
+      "wiki_title": "甜橙",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠小喬木果實，又稱柳丁。果皮緊實、果汁多甜，是榨汁首選。雲林古坑、嘉義竹崎為主要產區。11 月至隔年 1 月為盛產期。",
+      "season_months": [
+        11,
+        12,
+        1
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "嘉義"
+      ],
+      "varieties": [
+        "晚崙夏（Valencia）",
+        "華盛頓臍橙",
+        "本地柳橙"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "葉酸",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 2-3 週；常溫 1 週；榨汁立即飲用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "20-50 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "18-45 元/斤",
+          "note": "雲林古坑產地"
+        },
+        {
+          "region": "南部",
+          "range": "22-50 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "25-55 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:OrangeBloss_wb.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-orange.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/OrangeBloss_wb.jpg",
+      "wiki_image": "OrangeBloss_wb.jpg"
+    },
+    "pomelo": {
+      "id": "pomelo",
+      "names": {
+        "zh": "文旦",
+        "zh_alt": [
+          "柚子",
+          "麻豆文旦"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "文旦",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠喬木果實。中秋節前後上市，是傳統節慶水果。台南麻豆文旦、花蓮鶴岡文旦皆為知名產地。果肉清甜微酸帶柚香，老欉文旦更為珍貴。",
+      "season_months": [
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南麻豆",
+        "花蓮鶴岡",
+        "苗栗西湖"
+      ],
+      "varieties": [
+        "麻豆文旦",
+        "西施柚",
+        "白柚",
+        "紅柚"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀",
+        "類黃酮"
+      ],
+      "storage": "常溫陰涼通風 2-4 週反而更甜；冷藏可達 1 個月以上。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-100 元/斤",
+          "note": "老欉文旦較貴"
+        },
+        {
+          "region": "中部",
+          "range": "35-90 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "30-80 元/斤",
+          "note": "麻豆產地"
+        },
+        {
+          "region": "東部",
+          "range": "30-80 元/斤",
+          "note": "鶴岡文旦"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pomelo_fruit.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-pomelo.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/3840px-Pomelo_fruit.jpg",
+      "wiki_image": "Pomelo_fruit.jpg"
+    },
+    "grapefruit": {
+      "id": "grapefruit",
+      "names": {
+        "zh": "葡萄柚",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "葡萄柚",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠喬木果實。果肉粉紅或紅色，帶獨特苦甜風味，富含茄紅素。花蓮、雲林為台灣主要產區。10 月至 12 月為產季。早餐切半挖食或榨汁飲用皆宜。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "花蓮",
+        "雲林"
+      ],
+      "varieties": [
+        "紅葡萄柚",
+        "白葡萄柚",
+        "星紅葡萄柚"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "茄紅素",
+        "膳食纖維",
+        "葉酸"
+      ],
+      "storage": "冷藏 3-4 週；常溫 1-2 週；服藥時注意可能交互作用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-70 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-60 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "30-65 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "25-60 元/斤",
+          "note": "花蓮產地"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Grapefruits_-_whole-halved-segments.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-grapefruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grapefruits_-_whole-halved-segments.jpg/3840px-Grapefruits_-_whole-halved-segments.jpg",
+      "wiki_image": "Grapefruits_-_whole-halved-segments.jpg"
+    },
+    "lemon": {
+      "id": "lemon",
+      "names": {
+        "zh": "檸檬",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Citrus ×"
+      },
+      "wiki_title": "檸檬",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠小喬木果實。皮厚汁少酸度高，是料理與飲品最常用的調味水果。屏東九如、高雄為主要產區。夏季 6-10 月為盛產期，但全年皆可採收。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東",
+        "高雄"
+      ],
+      "varieties": [
+        "優利卡（Eureka）",
+        "里斯本（Lisbon）",
+        "綠檸檬"
+      ],
+      "nutrition": [
+        "維生素 C（極高）",
+        "檸檬酸",
+        "鉀"
+      ],
+      "storage": "常溫 1 週；冷藏 1 個月；切片冷凍可長期保存做飲料。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-80 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-70 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-60 元/斤",
+          "note": "屏東九如產地"
+        },
+        {
+          "region": "東部",
+          "range": "30-75 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-lemon.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg",
+      "wiki_image": "Citrus_x_limon_-_Köhler–s_Medizinal-Pflanzen-041.jpg"
+    },
+    "kumquat": {
+      "id": "kumquat",
+      "names": {
+        "zh": "金桔",
+        "zh_alt": [
+          "金柑",
+          "金棗"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "金柑",
+      "family": null,
+      "intro": "芸香科金柑屬的常綠小灌木果實。果實小巧橢圓，皮甜肉酸是其特色，常整顆連皮入口。宜蘭礁溪為台灣主要產區，故稱「金棗」。11 月至隔年 2 月為產季，常製成蜜餞、果醬。",
+      "season_months": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "宜蘭"
+      ],
+      "varieties": [
+        "長實金柑（金棗）",
+        "圓實金柑",
+        "羅紋金柑"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "類黃酮"
+      ],
+      "storage": "冷藏 2-3 週；常溫 1 週；蜜餞可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "70-130 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "50-100 元/斤",
+          "note": "宜蘭產地"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_lemon_plant_%28Citrus_japonica%29%3B_flowering_and_fruiting_stem_Wellcome_V0044760.jpg",
+        "license": "CC BY 4.0",
+        "local": "data/covers/fruit-kumquat.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/A_lemon_plant_%28Citrus_japonica%29%3B_flowering_and_fruiting_stem_Wellcome_V0044760.jpg",
+      "wiki_image": "A_lemon_plant_(Citrus_japonica);_flowering_and_fruiting_stem_Wellcome_V0044760.jpg"
+    },
+    "tankan": {
+      "id": "tankan",
+      "names": {
+        "zh": "茂谷柑",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "茂谷柑",
+      "family": null,
+      "intro": "芸香科柑橘屬的雜交品種（橘 × 橙），果實糖酸比佳、汁多味甜，是中部冬季主力柑橘。雲林古坑、嘉義竹崎、台中東勢為主產區。12 月至隔年 2 月為產季。",
+      "season_months": [
+        12,
+        1,
+        2
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "嘉義",
+        "台中"
+      ],
+      "varieties": [
+        "茂谷柑",
+        "椪柑茂谷"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "葉酸",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 2-3 週；常溫 1 週。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-90 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "35-80 元/斤",
+          "note": "雲林古坑產地"
+        },
+        {
+          "region": "南部",
+          "range": "40-85 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "45-90 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "murcott": {
+      "id": "murcott",
+      "names": {
+        "zh": "桶柑椪柑",
+        "zh_alt": [
+          "Murcott"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "茂谷柑",
+      "family": null,
+      "intro": "Murcott 為茂谷柑同一系列的晚熟雜交種，果型較大、糖度更高。雲林、台中為主要產地。產季與茂谷柑接近但稍晚，2-3 月仍可採收。",
+      "season_months": [
+        12,
+        1,
+        2
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林"
+      ],
+      "varieties": [
+        "Murcott",
+        "Encore"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "葉酸",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 2-3 週；常溫 1 週。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "45-90 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "50-95 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "55-100 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "bitter-orange": {
+      "id": "bitter-orange",
+      "names": {
+        "zh": "酸橘",
+        "zh_alt": [
+          "苦橙"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "苦橙",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠小喬木果實。果汁酸度極高、帶苦味，少作鮮食，多用於料理調味、製作果醬與精油。台灣零星栽培，10 月至隔年 1 月為產季。",
+      "season_months": [
+        10,
+        11,
+        12,
+        1
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全台"
+      ],
+      "varieties": [
+        "香水檸檬系列",
+        "Bergamot 香檸檬"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "檸檬酸",
+        "精油"
+      ],
+      "storage": "常溫 1 週；冷藏 1 個月；榨汁冷凍。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "60-110 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_aurantium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-042.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-bitter-orange.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Citrus_aurantium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-042.jpg",
+      "wiki_image": "Citrus_aurantium_-_Köhler–s_Medizinal-Pflanzen-042.jpg"
+    },
+    "apple": {
+      "id": "apple",
+      "names": {
+        "zh": "蘋果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Malus domestica"
+      },
+      "wiki_title": "蘋果",
+      "family": null,
+      "intro": "薔薇科蘋果屬的落葉喬木果實。台灣中海拔山區（梨山、武陵農場、福壽山農場）有少量栽培，秋冬 9-11 月為產季。果肉清脆甜中帶酸，多數市售蘋果為進口（美國、日本、紐西蘭）。",
+      "season_months": [
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "梨山",
+        "武陵農場",
+        "福壽山"
+      ],
+      "varieties": [
+        "富士",
+        "五爪蘋果",
+        "粉紅佳人",
+        "蜜蘋果",
+        "青蘋果"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C",
+        "果膠",
+        "槲皮素"
+      ],
+      "storage": "冷藏 1-2 個月；常溫 1-2 週；切後立即食用或泡鹽水防氧化。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-150 元/斤",
+          "note": "梨山蘋果較貴"
+        },
+        {
+          "region": "中部",
+          "range": "35-130 元/斤",
+          "note": "梨山產地"
+        },
+        {
+          "region": "南部",
+          "range": "40-140 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "45-150 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Apples_in_basket_2018_G2.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-apple.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apples_in_basket_2018_G2.jpg/3840px-Apples_in_basket_2018_G2.jpg",
+      "wiki_image": "Apples_in_basket_2018_G2.jpg"
+    },
+    "pear-japanese": {
+      "id": "pear-japanese",
+      "names": {
+        "zh": "高接梨",
+        "zh_alt": [
+          "新興梨",
+          "豐水梨"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "沙梨",
+      "family": null,
+      "intro": "薔薇科梨屬的高接梨品種。將溫帶梨穗條接到亞熱帶梨砧木上，使台灣中低海拔可生產溫帶梨。台中東勢、苗栗卓蘭為主要產區。6-8 月為盛產期。",
+      "season_months": [
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台中",
+        "苗栗",
+        "卓蘭"
+      ],
+      "varieties": [
+        "新興梨",
+        "豐水梨",
+        "新世紀梨",
+        "幸水梨"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C",
+        "鉀",
+        "山梨醇"
+      ],
+      "storage": "冷藏 2-3 週；常溫 5-7 天；削皮後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤",
+          "note": "台中卓蘭產地"
+        },
+        {
+          "region": "南部",
+          "range": "60-110 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "65-120 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Asian.pear-Pyrus.pyrifolia-05.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-pear-japanese.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
+      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+    },
+    "pear-asian": {
+      "id": "pear-asian",
+      "names": {
+        "zh": "水梨",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "沙梨",
+      "family": null,
+      "intro": "薔薇科梨屬的溫帶梨原樹，種植於高海拔山區。梨山、福壽山一帶可生產正統溫帶水梨，比高接梨更甜更脆。7-9 月為產季。產量少價格較高。",
+      "season_months": [
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "梨山",
+        "福壽山"
+      ],
+      "varieties": [
+        "新世紀",
+        "翠香梨",
+        "黃金梨"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C",
+        "鉀"
+      ],
+      "storage": "冷藏 3-4 週；常溫 1 週；耐貯藏。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-160 元/斤",
+          "note": "梨山產地"
+        },
+        {
+          "region": "南部",
+          "range": "80-170 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "85-180 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Asian.pear-Pyrus.pyrifolia-05.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-pear-asian.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
+      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+    },
+    "persimmon": {
+      "id": "persimmon",
+      "names": {
+        "zh": "柿子",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "柿",
+      "family": null,
+      "intro": "柿樹科柿屬的落葉喬木果實。台灣分為硬柿（甜柿）與澀柿兩類，澀柿需脫澀加工後食用。新竹新埔柿餅、嘉義番路甜柿皆為知名產品。9 月至 12 月為產季。",
+      "season_months": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "新竹",
+        "苗栗",
+        "嘉義番路"
+      ],
+      "varieties": [
+        "富有柿",
+        "次郎柿",
+        "石柿（澀柿）",
+        "牛心柿"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "維生素 C",
+        "膳食纖維",
+        "胡蘿蔔素"
+      ],
+      "storage": "甜柿冷藏 2-3 週；澀柿須以乙烯催熟或泡石灰水脫澀；柿餅可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-100 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "35-90 元/斤",
+          "note": "嘉義番路產地"
+        },
+        {
+          "region": "南部",
+          "range": "40-95 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "45-100 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-persimmon.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/3840px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
+      "wiki_image": "Fuyu_persimmon_fruits,_one_cut_open.jpg"
+    },
+    "persimmon-dried": {
+      "id": "persimmon-dried",
+      "names": {
+        "zh": "柿餅",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "柿餅",
+      "family": null,
+      "intro": "新竹新埔、北埔的傳統客家加工食品。澀柿經削皮後利用九降風自然吹乾與日曬製成，外覆白色果糖霜。每年 10-12 月新埔柿餅季吸引大量遊客。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "新竹新埔",
+        "北埔"
+      ],
+      "varieties": [
+        "石柿餅",
+        "牛心柿餅",
+        "筆柿餅"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "鉀",
+        "礦物質（濃縮）"
+      ],
+      "storage": "密封冷藏可保存半年；常溫陰涼處 1-2 個月。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "300-600 元/斤",
+          "note": "新埔產地最便宜"
+        },
+        {
+          "region": "中部",
+          "range": "350-650 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "400-700 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "400-700 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:%E6%9B%AC%E6%9F%BF%E9%A4%85-%E9%87%91%E6%BC%A2%E6%9F%BF%E9%A4%85_Nov_2018.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-persimmon-dried.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%E6%9B%AC%E6%9F%BF%E9%A4%85-%E9%87%91%E6%BC%A2%E6%9F%BF%E9%A4%85_Nov_2018.jpg/3840px-%E6%9B%AC%E6%9F%BF%E9%A4%85-%E9%87%91%E6%BC%A2%E6%9F%BF%E9%A4%85_Nov_2018.jpg",
+      "wiki_image": "曬柿餅-金漢柿餅_Nov_2018.jpg"
+    },
+    "peach-mountain": {
+      "id": "peach-mountain",
+      "names": {
+        "zh": "水蜜桃",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Prunus persica"
+      },
+      "wiki_title": "桃",
+      "family": null,
+      "intro": "薔薇科李屬的落葉小喬木果實。粉紅色絨毛果皮包覆多汁果肉。桃園拉拉山、台中梨山、南投信義為主要產區，中海拔氣候孕育出甜度高的水蜜桃。5-8 月為產季。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "拉拉山",
+        "梨山",
+        "福壽山",
+        "阿里山"
+      ],
+      "varieties": [
+        "甜蜜桃",
+        "脆桃",
+        "大紅桃",
+        "拉拉山水蜜桃"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "維生素 A",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "常溫熟成 2-3 天；冷藏 1 週內食用；輕擦表皮即食。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-300 元/斤",
+          "note": "拉拉山桃較貴"
+        },
+        {
+          "region": "中部",
+          "range": "80-250 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-280 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "120-300 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nectarine_Fruit_Development.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-peach-mountain.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nectarine_Fruit_Development.jpg",
+      "wiki_image": "Nectarine_Fruit_Development.jpg"
+    },
+    "plum-mei": {
+      "id": "plum-mei",
+      "names": {
+        "zh": "青梅",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Prunus mume"
+      },
+      "wiki_title": "梅",
+      "family": null,
+      "intro": "薔薇科李屬梅樹的青色未熟果，是製作梅干、梅酒、紫蘇梅、Q 梅的原料。南投信義鄉、水里鄉、桃米坑為主要產區。3-4 月為短暫產期，每年此時為梅農忙碌時節。",
+      "season_months": [
+        3,
+        4
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投信義",
+        "南投水里"
+      ],
+      "varieties": [
+        "胭脂梅",
+        "桃形梅",
+        "石頭梅"
+      ],
+      "nutrition": [
+        "有機酸",
+        "鉀",
+        "維生素 E"
+      ],
+      "storage": "新鮮青梅冷藏 1 週；醃漬後可保存數年。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "40-90 元/斤",
+          "note": "南投產地"
+        },
+        {
+          "region": "南部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "60-110 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pink_Prunus_mume_flowers.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-plum-mei.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pink_Prunus_mume_flowers.jpg/3840px-Pink_Prunus_mume_flowers.jpg",
+      "wiki_image": "Pink_Prunus_mume_flowers.jpg"
+    },
+    "plum": {
+      "id": "plum",
+      "names": {
+        "zh": "李子",
+        "zh_alt": [
+          "李",
+          "紅肉李",
+          "加州李"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "李",
+      "family": null,
+      "intro": "薔薇科李屬的落葉小喬木果實。果肉鮮紅色或黃綠色、酸甜多汁。桃園復興、新竹尖石、苗栗、南投仁愛為主要產區。4-6 月為產季。",
+      "season_months": [
+        4,
+        5,
+        6
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "桃園",
+        "新竹",
+        "苗栗",
+        "南投"
+      ],
+      "varieties": [
+        "紅肉李",
+        "桃接李",
+        "加州李",
+        "黃肉李"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀",
+        "花青素"
+      ],
+      "storage": "硬時常溫熟成；軟熟後冷藏 1 週內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "50-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "45-100 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "50-110 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "55-115 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "apricot": {
+      "id": "apricot",
+      "names": {
+        "zh": "杏桃",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Prunus armeniaca"
+      },
+      "wiki_title": "杏",
+      "family": null,
+      "intro": "薔薇科李屬的落葉小喬木果實。果實小巧黃橙色、帶絨毛，酸甜風味獨特。台灣以梨山、武陵農場有少量栽培，5-6 月短暫產期，產量稀少。多數市售杏桃為加工品（杏乾）或進口。",
+      "season_months": [
+        5,
+        6
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "梨山"
+      ],
+      "varieties": [
+        "加州杏",
+        "本地杏"
+      ],
+      "nutrition": [
+        "β-胡蘿蔔素",
+        "維生素 A",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "硬時常溫 2-3 天；軟熟後冷藏 3 天內食用；曬乾為杏乾可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "150-300 元/斤",
+          "note": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "120-250 元/斤",
+          "note": "梨山產地"
+        },
+        {
+          "region": "南部",
+          "range": "150-280 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "160-300 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Prunus_armeniaca_Nubra_Valley.jpg",
+        "license": "CC BY 2.0",
+        "local": "data/covers/fruit-apricot.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Prunus_armeniaca_Nubra_Valley.jpg",
+      "wiki_image": "Prunus_armeniaca_Nubra_Valley.jpg"
+    },
+    "cherry": {
+      "id": "cherry",
+      "names": {
+        "zh": "櫻桃",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "櫻桃",
+      "family": null,
+      "intro": "薔薇科李屬的落葉小喬木果實。鮮紅色果實小巧多汁，是高檔水果代表。台灣拉拉山、梨山有少量栽培，多數仍仰賴美國、智利、紐西蘭進口。5-7 月為產季。",
+      "season_months": [
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "拉拉山",
+        "梨山"
+      ],
+      "varieties": [
+        "美國 Bing",
+        "Rainier",
+        "智利櫻桃",
+        "本地佐藤錦"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "花青素",
+        "鉀",
+        "褪黑激素"
+      ],
+      "storage": "冷藏 1 週；常溫 2-3 天；冷凍可保存 6 個月做點心。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "300-800 元/斤",
+          "note": "進口為主"
+        },
+        {
+          "region": "中部",
+          "range": "280-700 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "300-750 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "320-800 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Italienische_S%C3%BC%C3%9Fkirschen.JPG",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-cherry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Italienische_S%C3%BC%C3%9Fkirschen.JPG",
+      "wiki_image": "Italienische_Süßkirschen.JPG"
+    },
+    "kiwi": {
+      "id": "kiwi",
+      "names": {
+        "zh": "奇異果",
+        "zh_alt": [
+          "奇異果",
+          "獼猴桃"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "獼猴桃",
+      "family": null,
+      "intro": "獼猴桃科獼猴桃屬的多年生藤本果實。果實表面有絨毛、果肉綠色或金黃色，內含黑色細小種子。台灣南投信義有少量栽培，多數市售為紐西蘭進口（Zespri）。10-12 月為產季。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投信義"
+      ],
+      "varieties": [
+        "綠奇異果",
+        "黃金奇異果",
+        "紅心奇異果"
+      ],
+      "nutrition": [
+        "維生素 C（極高）",
+        "維生素 K",
+        "膳食纖維",
+        "葉酸"
+      ],
+      "storage": "硬時常溫熟成；軟熟後冷藏 1 週內食用；切半挖食最方便。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-100 元/顆"
+        },
+        {
+          "region": "中部",
+          "range": "35-90 元/顆"
+        },
+        {
+          "region": "南部",
+          "range": "40-95 元/顆"
+        },
+        {
+          "region": "東部",
+          "range": "45-100 元/顆"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+        "license": "CC BY-SA 2.5",
+        "local": "data/covers/fruit-kiwi.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/3840px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+      "wiki_image": "Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg"
+    },
+    "grape-kyoho": {
+      "id": "grape-kyoho",
+      "names": {
+        "zh": "巨峰葡萄",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "葡萄",
+      "family": null,
+      "intro": "葡萄科葡萄屬的落葉藤本果實。深紫色大粒葡萄，果皮厚易剝、果肉甜美多汁。彰化大村、南投信義鄉為台灣最主要產區。一年兩產（夏果 6-7 月、冬果 12 月起）。",
+      "season_months": [
+        6,
+        7,
+        12,
+        1
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "彰化",
+        "南投",
+        "苗栗"
+      ],
+      "varieties": [
+        "巨峰",
+        "蜜紅葡萄"
+      ],
+      "nutrition": [
+        "花青素",
+        "維生素 C",
+        "鉀",
+        "白藜蘆醇"
+      ],
+      "storage": "冷藏 1 週；常溫 2-3 天；食用前不洗以延長保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "120-220 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "100-200 元/斤",
+          "note": "彰化大村產地"
+        },
+        {
+          "region": "南部",
+          "range": "120-210 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "130-230 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Close_up_grapes.jpg",
+        "license": "GFDL 1.2",
+        "local": "data/covers/fruit-grape-kyoho.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Close_up_grapes.jpg",
+      "wiki_image": "Close_up_grapes.jpg"
+    },
+    "grape-table": {
+      "id": "grape-table",
+      "names": {
+        "zh": "葡萄",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "葡萄",
+      "family": null,
+      "intro": "葡萄科葡萄屬的落葉藤本果實。一般食用葡萄品種總稱。彰化、南投為主要產區，6-8 月為夏果，11-12 月為冬果。除巨峰外還有多個食用品種。",
+      "season_months": [
+        6,
+        7,
+        8,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "彰化",
+        "南投"
+      ],
+      "varieties": [
+        "巨峰",
+        "蜜紅",
+        "麝香葡萄",
+        "義大利"
+      ],
+      "nutrition": [
+        "花青素",
+        "白藜蘆醇",
+        "維生素 C",
+        "鉀"
+      ],
+      "storage": "冷藏 1 週；食用前再清洗。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-150 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "80-170 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "90-180 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Close_up_grapes.jpg",
+        "license": "GFDL 1.2",
+        "local": "data/covers/fruit-grape-table.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Close_up_grapes.jpg",
+      "wiki_image": "Close_up_grapes.jpg"
+    },
+    "strawberry": {
+      "id": "strawberry",
+      "names": {
+        "zh": "草莓",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Fragaria ×"
+      },
+      "wiki_title": "草莓",
+      "family": null,
+      "intro": "薔薇科草莓屬的多年生草本果實，並非莓果類而是「聚合果」。鮮紅色心形果實表面密布種子。苗栗大湖、獅潭為台灣主產區，每年冬末春初 12 月至隔年 4 月為產季。",
+      "season_months": [
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "苗栗大湖",
+        "苗栗獅潭"
+      ],
+      "varieties": [
+        "豐香",
+        "桃薰",
+        "香水",
+        "白草莓（淡雪）"
+      ],
+      "nutrition": [
+        "維生素 C（極高）",
+        "葉酸",
+        "錳",
+        "花青素"
+      ],
+      "storage": "冷藏 3-5 天；不可水洗存放；食用前才清洗。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "120-260 元/斤",
+          "note": "苗栗大湖產地"
+        },
+        {
+          "region": "南部",
+          "range": "160-300 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "180-320 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Strawberry_is_a_fruit_instead_of_love_%286%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-strawberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Strawberry_is_a_fruit_instead_of_love_%286%29.jpg/1920px-Strawberry_is_a_fruit_instead_of_love_%286%29.jpg",
+      "wiki_image": "Strawberry_is_a_fruit_instead_of_love_(6).jpg"
+    },
+    "melon-honeydew": {
+      "id": "melon-honeydew",
+      "names": {
+        "zh": "美濃瓜",
+        "zh_alt": [
+          "香瓜",
+          "哈密瓜系"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "香瓜",
+      "family": null,
+      "intro": "葫蘆科甜瓜屬的一年生草本果實。原指美濃地區栽培的甜瓜系列，包含黃皮綠肉、白皮綠肉等品種。雲林、台南為主產區。3-7 月為產季。",
+      "season_months": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "台南"
+      ],
+      "varieties": [
+        "華秀",
+        "新世紀",
+        "農友洋香瓜"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "水分"
+      ],
+      "storage": "未切常溫 5-7 天；切後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-80 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-70 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-65 元/斤",
+          "note": "雲林產地"
+        },
+        {
+          "region": "東部",
+          "range": "30-75 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Korean_melon-Chamoe-01.jpg",
+        "license": "CC BY 2.0",
+        "local": "data/covers/fruit-melon-honeydew.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Korean_melon-Chamoe-01.jpg",
+      "wiki_image": "Korean_melon-Chamoe-01.jpg"
+    },
+    "cantaloupe": {
+      "id": "cantaloupe",
+      "names": {
+        "zh": "哈密瓜",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Cucumis melo"
+      },
+      "wiki_title": "甜瓜",
+      "family": null,
+      "intro": "葫蘆科甜瓜屬的一年生草本果實。果肉橙黃色、香氣濃郁。台灣以雲林二崙、新疆進口為主。5-10 月為產季，但全年皆可進口。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "嘉義",
+        "台南"
+      ],
+      "varieties": [
+        "哈密瓜",
+        "夏帝瓜",
+        "新疆甜瓜"
+      ],
+      "nutrition": [
+        "β-胡蘿蔔素",
+        "維生素 C",
+        "鉀",
+        "葉酸"
+      ],
+      "storage": "未切常溫熟成；切後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-150 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "60-140 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "70-150 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Muskmelon.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-cantaloupe.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Muskmelon.jpg",
+      "wiki_image": "Muskmelon.jpg"
+    },
+    "melon-network": {
+      "id": "melon-network",
+      "names": {
+        "zh": "網紋洋香瓜",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Cucumis melo"
+      },
+      "wiki_title": "甜瓜",
+      "family": null,
+      "intro": "葫蘆科甜瓜屬的高級洋香瓜系列，果皮密布網紋為特色，糖度極高。雲林二崙為台灣最大溫室洋香瓜產區，全年皆可生產。日本品種「Crown」「Earl」「Tiara」最為高貴。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林二崙"
+      ],
+      "varieties": [
+        "阿露絲（Earl）",
+        "皇冠（Crown）",
+        "提雅拉（Tiara）",
+        "翠玉"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "葉酸",
+        "果糖"
+      ],
+      "storage": "未切常溫熟成 2-3 天；切後冷藏 1-2 天；高糖度品種冷藏前先放熟。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-1000 元/顆",
+          "note": "日系品種高價"
+        },
+        {
+          "region": "中部",
+          "range": "180-900 元/顆",
+          "note": "雲林產地"
+        },
+        {
+          "region": "南部",
+          "range": "200-950 元/顆"
+        },
+        {
+          "region": "東部",
+          "range": "220-1000 元/顆"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Muskmelon.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-melon-network.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Muskmelon.jpg",
+      "wiki_image": "Muskmelon.jpg"
+    },
+    "watermelon-yellow": {
+      "id": "watermelon-yellow",
+      "names": {
+        "zh": "黃肉小玉西瓜",
+        "zh_alt": [
+          "小玉西瓜"
+        ],
+        "en": null,
+        "scientific": "Citrullus lanatus"
+      },
+      "wiki_title": "西瓜",
+      "family": null,
+      "intro": "葫蘆科西瓜屬的小型品種，果肉黃色或紅色，重量約 1-3 公斤。雲林、嘉義為主要產區。5-8 月為產季。一顆剛好兩三人吃完，是現代家庭的人氣選擇。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "嘉義"
+      ],
+      "varieties": [
+        "黃肉小玉",
+        "紅肉小玉",
+        "華寶小玉"
+      ],
+      "nutrition": [
+        "水分",
+        "茄紅素（紅肉）",
+        "維生素 C"
+      ],
+      "storage": "未切常溫 5-7 天；切後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-150 元/顆"
+        },
+        {
+          "region": "中部",
+          "range": "50-130 元/顆"
+        },
+        {
+          "region": "南部",
+          "range": "40-120 元/顆"
+        },
+        {
+          "region": "東部",
+          "range": "60-140 元/顆"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Watermelon-garden.jpg",
+        "license": "CC BY 2.0",
+        "local": "data/covers/fruit-watermelon-yellow.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg",
+      "wiki_image": "Watermelon-garden.jpg"
+    },
+    "bitter-melon-fruit": {
+      "id": "bitter-melon-fruit",
+      "names": {
+        "zh": "山苦瓜",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Momordica charantia"
+      },
+      "wiki_title": "苦瓜",
+      "family": null,
+      "intro": "葫蘆科苦瓜屬的果實，山苦瓜為野生種或半野生種，果型較小、苦味更強。花蓮、台東、屏東山區為主要產地。雖屬蔬菜但常作為養生水果攝取，5-9 月為盛產期。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "花蓮",
+        "台東",
+        "屏東"
+      ],
+      "varieties": [
+        "白玉苦瓜",
+        "綠苦瓜",
+        "山苦瓜",
+        "翠綠苦瓜"
+      ],
+      "nutrition": [
+        "苦瓜素",
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 1 週；常溫 3-5 天；切片汆燙可去苦味。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-100 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "35-90 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "30-80 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "30-90 元/斤",
+          "note": "花蓮產地"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Bitter_Gourd_FRD_7956.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-bitter-melon-fruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Taiwan_2009_Tainan_City_Organic_Farm_Bitter_Gourd_FRD_7956.jpg",
+      "wiki_image": "Taiwan_2009_Tainan_City_Organic_Farm_Bitter_Gourd_FRD_7956.jpg"
+    },
+    "mulberry": {
+      "id": "mulberry",
+      "names": {
+        "zh": "桑椹",
+        "zh_alt": [
+          "桑葚"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "桑",
+      "family": null,
+      "intro": "桑科桑屬的落葉喬木果實。聚合果由綠轉紅再轉深紫黑色，越熟越甜。全台山區與庭院常見，3-5 月短暫產季。多用於釀酒、果醬、鮮食，染衣不易洗淨。",
+      "season_months": [
+        3,
+        4,
+        5
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全台"
+      ],
+      "varieties": [
+        "長果桑",
+        "白桑",
+        "紅桑"
+      ],
+      "nutrition": [
+        "花青素",
+        "鐵質",
+        "維生素 C",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 2-3 天；不耐久放，最好當天食用；冷凍可做冰沙。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "100-200 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "raspberry": {
+      "id": "raspberry",
+      "names": {
+        "zh": "樹莓",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "懸鉤子屬",
+      "family": null,
+      "intro": "薔薇科懸鉤子屬的多年生灌木果實。聚合果紅色或黑色，酸甜多汁。台灣山區零星栽培，多數市售為進口冷凍或新鮮包裝。5-6 月與 11-12 月為產季。",
+      "season_months": [
+        4,
+        5,
+        6,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "山區零星"
+      ],
+      "varieties": [
+        "紅樹莓",
+        "黑樹莓",
+        "黃樹莓"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "花青素",
+        "膳食纖維",
+        "錳"
+      ],
+      "storage": "冷藏 2-3 天；不耐久放；冷凍可保存 6 個月。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-500 元/盒（150g）"
+        },
+        {
+          "region": "中部",
+          "range": "180-450 元/盒"
+        },
+        {
+          "region": "南部",
+          "range": "200-480 元/盒"
+        },
+        {
+          "region": "東部",
+          "range": "220-500 元/盒"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Blackberries_on_bush.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-raspberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Blackberries_on_bush.jpg",
+      "wiki_image": "Blackberries_on_bush.jpg"
+    },
+    "blueberry": {
+      "id": "blueberry",
+      "names": {
+        "zh": "藍莓",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Vaccinium vitis-idaea"
+      },
+      "wiki_title": "越橘",
+      "family": null,
+      "intro": "杜鵑花科越橘屬的小型灌木果實。深藍紫色小球狀果實表面有白色果粉，富含花青素。台灣南投、嘉義有少量栽培，5-7 月為產季。多數市售為美國、智利進口冷凍。",
+      "season_months": [
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投",
+        "嘉義"
+      ],
+      "varieties": [
+        "高叢藍莓",
+        "矮叢藍莓",
+        "兔眼藍莓"
+      ],
+      "nutrition": [
+        "花青素（極高）",
+        "維生素 C",
+        "膳食纖維",
+        "錳"
+      ],
+      "storage": "冷藏 1-2 週；不洗存放；食用前清洗；冷凍保存佳。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "300-700 元/盒（125g）"
+        },
+        {
+          "region": "中部",
+          "range": "280-650 元/盒"
+        },
+        {
+          "region": "南部",
+          "range": "300-680 元/盒"
+        },
+        {
+          "region": "東部",
+          "range": "320-700 元/盒"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cowberry.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-blueberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cowberry.jpg",
+      "wiki_image": "Cowberry.jpg"
+    },
+    "chinese-bayberry": {
+      "id": "chinese-bayberry",
+      "names": {
+        "zh": "楊梅",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "楊梅",
+      "family": null,
+      "intro": "楊梅科楊梅屬的常綠喬木果實。深紫紅色聚合果，表面密布顆粒，酸甜爽口。桃園復興、新竹寶山為台灣主要產區。5-6 月為短暫產季，多製成蜜餞、果醬、楊梅酒。",
+      "season_months": [
+        5,
+        6
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "桃園",
+        "新竹"
+      ],
+      "varieties": [
+        "黑楊梅",
+        "紅楊梅",
+        "白楊梅"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "花青素",
+        "膳食纖維",
+        "有機酸"
+      ],
+      "storage": "冷藏 2-3 天；不耐久放；醃漬可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-220 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "90-200 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-220 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "120-240 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Myrica_rubra5.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-chinese-bayberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Myrica_rubra5.jpg",
+      "wiki_image": "Myrica_rubra5.jpg"
+    },
+    "indian-jujube": {
+      "id": "indian-jujube",
+      "names": {
+        "zh": "印度棗",
+        "zh_alt": [
+          "蜜棗",
+          "牛奶棗"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "滇刺棗",
+      "family": null,
+      "intro": "鼠李科棗屬的常綠小喬木果實，又稱「蜜棗」「牛奶棗」。橢圓形綠皮果實清脆甜美，是冬季最受歡迎的台灣水果之一。高雄、屏東為主要產區。12 月至隔年 3 月為產季。",
+      "season_months": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "高雄",
+        "屏東"
+      ],
+      "varieties": [
+        "高雄 11 號",
+        "蜜棗",
+        "牛奶棗",
+        "雪麗棗"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀",
+        "鐵質"
+      ],
+      "storage": "冷藏 1-2 週；常溫 3-5 天；輕拭即食不需削皮。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-150 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-100 元/斤",
+          "note": "高屏產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "60-140 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "chinese-jujube": {
+      "id": "chinese-jujube",
+      "names": {
+        "zh": "紅棗",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Ziziphus jujuba"
+      },
+      "wiki_title": "棗",
+      "family": null,
+      "intro": "鼠李科棗屬的落葉小喬木果實。新鮮紅棗清脆甜美，乾燥後則為傳統中藥材與烘焙原料。苗栗公館為台灣唯一專業紅棗產區。8-9 月為產季。",
+      "season_months": [
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "苗栗公館"
+      ],
+      "varieties": [
+        "苗栗紅棗",
+        "金絲小棗",
+        "蜜棗"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鐵質",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "新鮮冷藏 1 週；曬乾後常溫密封可保存 1 年。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "180-380 元/斤",
+          "note": "苗栗公館產地"
+        },
+        {
+          "region": "南部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "220-420 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ziziphus_zizyphus_foliage.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-chinese-jujube.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ziziphus_zizyphus_foliage.jpg",
+      "wiki_image": "Ziziphus_zizyphus_foliage.jpg"
+    },
+    "olive-fruit": {
+      "id": "olive-fruit",
+      "names": {
+        "zh": "橄欖",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "橄欖屬",
+      "family": null,
+      "intro": "橄欖科橄欖屬的常綠喬木果實，與地中海橄欖不同種。台灣稱「青果」，可生食帶澀後回甘。台南、苗栗有少量栽培。10-12 月為產季，多用於製作蜜餞、橄欖油（醃漬非榨油）。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "苗栗"
+      ],
+      "varieties": [
+        "白欖",
+        "烏欖",
+        "圓蜜欖"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鈣",
+        "膳食纖維",
+        "多酚"
+      ],
+      "storage": "冷藏 2 週；醃漬蜜餞可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-150 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "80-150 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Canarium_harveyi%2C_leaves%2C_fruits.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-olive-fruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Canarium_harveyi%2C_leaves%2C_fruits.jpg",
+      "wiki_image": "Canarium_harveyi,_leaves,_fruits.jpg"
+    },
+    "prickly-pear": {
+      "id": "prickly-pear",
+      "names": {
+        "zh": "仙人掌果",
+        "zh_alt": [
+          "澎湖仙人掌"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "仙人掌",
+      "family": "仙人掌科",
+      "intro": "仙人掌科仙人掌屬的果實。鮮豔紅紫色或黃色橢圓形果實，外皮帶細刺需小心處理。澎湖縣特有產業，6-9 月為產季，常製成果汁、冰品。仙人掌冰是澎湖代表伴手禮。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "澎湖"
+      ],
+      "varieties": [
+        "紅心種",
+        "黃心種",
+        "白心種"
+      ],
+      "nutrition": [
+        "甜菜紅素",
+        "膳食纖維",
+        "維生素 C",
+        "鎂"
+      ],
+      "storage": "冷藏 1 週；削皮去刺後可冷凍。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-150 元/斤",
+          "note": "進口或運送"
+        },
+        {
+          "region": "中部",
+          "range": "70-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "80-140 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pereskia_aculeata4_cropped.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-prickly-pear.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pereskia_aculeata4_cropped.jpg",
+      "wiki_image": "Pereskia_aculeata4_cropped.jpg"
+    },
+    "rambutan": {
+      "id": "rambutan",
+      "names": {
+        "zh": "紅毛丹",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "紅毛丹",
+      "family": null,
+      "intro": "無患子科韶子屬的常綠喬木果實。鮮紅色外皮覆滿軟刺如「紅毛」，果肉透明白色甜美似荔枝。屏東、嘉義有少量栽培，多數仰賴泰國、馬來西亞進口。7-9 月為產季。",
+      "season_months": [
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東",
+        "嘉義"
+      ],
+      "varieties": [
+        "馬來西亞紅毛丹",
+        "泰國本地種"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鐵質",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 3-5 天；常溫 2 天；剝殼後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "90-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "80-160 元/斤",
+          "note": "屏東產地"
+        },
+        {
+          "region": "東部",
+          "range": "100-200 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ripe_rambutan_fruit_%28Buche%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-rambutan.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ripe_rambutan_fruit_%28Buche%29.jpg/3840px-Ripe_rambutan_fruit_%28Buche%29.jpg",
+      "wiki_image": "Ripe_rambutan_fruit_(Buche).jpg"
+    },
+    "mangosteen": {
+      "id": "mangosteen",
+      "names": {
+        "zh": "山竹",
+        "zh_alt": [
+          "莽吉柿"
+        ],
+        "en": null,
+        "scientific": "Garcinia mangostana"
+      },
+      "wiki_title": "莽吉柿",
+      "family": null,
+      "intro": "藤黃科藤黃屬的常綠喬木果實，被譽為「水果之后」。深紫色硬殼包覆白色花瓣狀果肉，酸甜清雅，與「水果之王」榴槤齊名。屏東有少量栽培，多數由泰國進口。6-8 月為產季。",
+      "season_months": [
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東"
+      ],
+      "varieties": [
+        "泰國山竹",
+        "本地山竹"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "氧雜蒽酮"
+      ],
+      "storage": "冷藏 1 週；剝殼後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-330 元/斤",
+          "note": "屏東有產"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fresh_mangosteen_fruit.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-mangosteen.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fresh_mangosteen_fruit.jpg/3840px-Fresh_mangosteen_fruit.jpg",
+      "wiki_image": "Fresh_mangosteen_fruit.jpg"
+    },
+    "longan-dragon": {
+      "id": "longan-dragon",
+      "names": {
+        "zh": "龍宮果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "龍貢",
+      "family": null,
+      "intro": "楝科蘭撒屬的果實，原產東南亞。淡黃色橢圓形果實，果肉透明甜美似龍眼但更為濃郁。屏東有極少量栽培，多數為進口。8-10 月為產季，市場較少見。",
+      "season_months": [
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東"
+      ],
+      "varieties": [
+        "龍宮果",
+        "杜古"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 5-7 天；剝殼後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤",
+          "note": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "180-350 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lanzones.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-longan-dragon.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lanzones.jpg",
+      "wiki_image": "Lanzones.jpg"
+    },
+    "noni": {
+      "id": "noni",
+      "names": {
+        "zh": "諾麗果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "海濱木巴戟",
+      "family": null,
+      "intro": "茜草科檄樹屬的常綠喬木果實。淡黃綠色凹凸不平、氣味強烈，被譽為健康食品但口感不佳。蘭嶼、綠島有原生族群。多製成酵素、果汁飲品。全年可採果。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "蘭嶼",
+        "綠島"
+      ],
+      "varieties": [
+        "蘭嶼諾麗",
+        "夏威夷諾麗"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "酵素",
+        "多醣體"
+      ],
+      "storage": "成熟果不耐放；發酵後製酵素可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤",
+          "note": "多為加工品"
+        },
+        {
+          "region": "中部",
+          "range": "100-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "80-150 元/斤",
+          "note": "蘭嶼產地"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "cherimoya": {
+      "id": "cherimoya",
+      "names": {
+        "zh": "冷子番荔枝",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "番荔枝屬",
+      "family": null,
+      "intro": "番荔枝科番荔枝屬的小喬木果實，是釋迦的近親。表皮有 V 字形紋路、果肉乳白多汁，口感像香蕉、鳳梨與草莓的綜合。台東有少量栽培，11 月至隔年 1 月為產季。",
+      "season_months": [
+        11,
+        12,
+        1
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台東"
+      ],
+      "varieties": [
+        "冷子番荔枝",
+        "秘魯品種"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "維生素 B6",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "硬時常溫熟成；軟熟後冷藏 1-2 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "130-260 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-280 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "120-250 元/斤",
+          "note": "台東產地"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sugar_apple_with_cross_section.jpg",
+        "license": "GFDL 1.2",
+        "local": "data/covers/fruit-cherimoya.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sugar_apple_with_cross_section.jpg",
+      "wiki_image": "Sugar_apple_with_cross_section.jpg"
+    },
+    "white-sapote": {
+      "id": "white-sapote",
+      "names": {
+        "zh": "香肉果",
+        "zh_alt": [
+          "白柿",
+          "卡撒巴"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "香肉果",
+      "family": null,
+      "intro": "芸香科香肉果屬的常綠喬木果實。淡綠色外皮、白色果肉柔軟綿密甜如蛋糕，因此又稱「香肉果」「布丁果」。南部零星栽培。6-9 月為產季，市場罕見。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部零星"
+      ],
+      "varieties": [
+        "甜白柿",
+        "卡撒巴"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "成熟後冷藏 2-3 天內食用；不耐久放。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤",
+          "note": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Casimiroa_edulis.jpg",
+        "license": "CC BY 3.0",
+        "local": "data/covers/fruit-white-sapote.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Casimiroa_edulis.jpg",
+      "wiki_image": "Casimiroa_edulis.jpg"
+    },
+    "black-sapote": {
+      "id": "black-sapote",
+      "names": {
+        "zh": "黑柿",
+        "zh_alt": [
+          "巧克力布丁果"
+        ],
+        "en": null,
+        "scientific": "Diospyros nigra"
+      },
+      "wiki_title": "黑柿",
+      "family": null,
+      "intro": "柿樹科柿屬的常綠喬木果實，又稱「巧克力布丁果」。成熟時果肉變黑褐色、口感如巧克力布丁。南部零星栽培。10 月至隔年 1 月為產季，市場罕見。",
+      "season_months": [
+        10,
+        11,
+        12,
+        1
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部零星"
+      ],
+      "varieties": [
+        "巧克力柿",
+        "黑布丁"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "維生素 A",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "硬時常溫熟成至全黑軟熟；熟後冷藏 1-2 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "150-300 元/斤",
+          "note": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "130-280 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "120-250 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "150-300 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Diospyros_nigra_Blanco2.372-cropped.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-black-sapote.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Diospyros_nigra_Blanco2.372-cropped.jpg",
+      "wiki_image": "Diospyros_nigra_Blanco2.372-cropped.jpg"
+    },
+    "sapodilla": {
+      "id": "sapodilla",
+      "names": {
+        "zh": "人心果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Manilkara zapota"
+      },
+      "wiki_title": "人心果",
+      "family": null,
+      "intro": "山欖科鐵線子屬的常綠喬木果實。褐色橢圓形，果肉橙褐色甜如焦糖布丁、帶顆粒口感。原產中南美，南部零星栽培。3-5 月與 9-11 月為產季。",
+      "season_months": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部"
+      ],
+      "varieties": [
+        "人心果",
+        "Tikal",
+        "Brown Sugar"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "膳食纖維",
+        "鐵質"
+      ],
+      "storage": "硬時常溫熟成；軟熟後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "90-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "80-160 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "100-200 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sapodilla_tree.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-sapodilla.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sapodilla_tree.jpg",
+      "wiki_image": "Sapodilla_tree.jpg"
+    },
+    "jaboticaba": {
+      "id": "jaboticaba",
+      "names": {
+        "zh": "嘉寶果",
+        "zh_alt": [
+          "樹葡萄"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "嘉寶果",
+      "family": null,
+      "intro": "桃金孃科樹葡萄屬的常綠喬木果實。黑紫色果實直接長在樹幹上是其奇特特色，故又稱「樹葡萄」。果肉透明甜酸似葡萄。全台庭院零星栽培。3-5 月與 9-10 月為產季。",
+      "season_months": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全台"
+      ],
+      "varieties": [
+        "大葉樹葡萄",
+        "小葉樹葡萄",
+        "甜樹葡萄"
+      ],
+      "nutrition": [
+        "花青素",
+        "維生素 C",
+        "膳食纖維",
+        "鐵質"
+      ],
+      "storage": "冷藏 1 週；不耐久放；可釀酒果醬。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "300-600 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "280-550 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "250-500 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "300-600 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jabuticaba_fruto.jpg",
+        "license": "CC BY 3.0",
+        "local": "data/covers/fruit-jaboticaba.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jabuticaba_fruto.jpg",
+      "wiki_image": "Jabuticaba_fruto.jpg"
+    },
+    "tamarillo": {
+      "id": "tamarillo",
+      "names": {
+        "zh": "樹番茄",
+        "zh_alt": [
+          "紅茄"
+        ],
+        "en": null,
+        "scientific": "Solanum betaceum"
+      },
+      "wiki_title": "樹番茄",
+      "family": null,
+      "intro": "茄科茄屬的常綠灌木果實，又稱「樹番茄」。橢圓形紅或橙色果實，酸度高需加工後食用。南投埔里、嘉義有少量栽培。10 月至隔年 3 月為產季。",
+      "season_months": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投",
+        "嘉義"
+      ],
+      "varieties": [
+        "紅肉樹番茄",
+        "黃肉樹番茄"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "維生素 A",
+        "茄紅素",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 2 週；常溫 3-5 天；多用於製作果醬、果汁。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "80-180 元/斤",
+          "note": "南投產地"
+        },
+        {
+          "region": "南部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "120-220 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Solanum_betaceum_3zz.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-tamarillo.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Solanum_betaceum_3zz.jpg",
+      "wiki_image": "Solanum_betaceum_3zz.jpg"
+    },
+    "feijoa": {
+      "id": "feijoa",
+      "names": {
+        "zh": "鳳梨芭樂",
+        "zh_alt": [
+          "費約果"
+        ],
+        "en": null,
+        "scientific": "Acca sellowiana"
+      },
+      "wiki_title": "費約果",
+      "family": null,
+      "intro": "桃金孃科費約果屬的常綠灌木果實。橢圓形綠皮果實，果肉乳白色、香氣似鳳梨芭樂故得名。中海拔山區零星栽培，10-12 月為產季，市場罕見。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "中海拔山區零星"
+      ],
+      "varieties": [
+        "紐西蘭品種",
+        "本地種"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 1 週；常溫熟成 2-3 天；切開挖食。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤",
+          "note": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Acca_sellowiana_Fruit_MHNT_Fronton.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-feijoa.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Acca_sellowiana_Fruit_MHNT_Fronton.jpg/3840px-Acca_sellowiana_Fruit_MHNT_Fronton.jpg",
+      "wiki_image": "Acca_sellowiana_Fruit_MHNT_Fronton.jpg"
+    },
+    "cacao": {
+      "id": "cacao",
+      "names": {
+        "zh": "可可",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Theobroma cacao"
+      },
+      "wiki_title": "可可樹",
+      "family": null,
+      "intro": "錦葵科可可屬的常綠喬木果實，是巧克力的原料。長橢圓形黃或紅色果實，內含種子（可可豆）。屏東萬巒、內埔為台灣專業栽培區，4-11 月為產季。本土巧克力近年屢獲國際獎項。",
+      "season_months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東"
+      ],
+      "varieties": [
+        "Criollo",
+        "Forastero",
+        "Trinitario"
+      ],
+      "nutrition": [
+        "可可鹼",
+        "鎂",
+        "鐵質",
+        "抗氧化劑"
+      ],
+      "storage": "鮮果冷藏 1 週；發酵後可可豆乾燥可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "300-600 元/顆鮮果"
+        },
+        {
+          "region": "中部",
+          "range": "280-550 元/顆"
+        },
+        {
+          "region": "南部",
+          "range": "200-450 元/顆",
+          "note": "屏東產地"
+        },
+        {
+          "region": "東部",
+          "range": "300-600 元/顆"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Theobroma_cacao_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-136.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-cacao.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Theobroma_cacao_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-136.jpg",
+      "wiki_image": "Theobroma_cacao_-_Köhler–s_Medizinal-Pflanzen-136.jpg"
+    },
+    "coconut": {
+      "id": "coconut",
+      "names": {
+        "zh": "椰子",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "椰子",
+      "family": null,
+      "intro": "棕櫚科椰屬的高大棕櫚果實。綠色或黃色硬殼包覆椰汁與椰肉，是熱帶代表性水果。屏東、台南有少量栽培，全年皆可採果。椰水補充電解質，椰肉可鮮食或製椰子粉。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東",
+        "台南"
+      ],
+      "varieties": [
+        "矮種椰",
+        "高種椰",
+        "海南椰"
+      ],
+      "nutrition": [
+        "電解質（椰水）",
+        "中鏈脂肪酸（椰肉）",
+        "膳食纖維",
+        "錳"
+      ],
+      "storage": "未開殼常溫 1 個月；開殼後冷藏 1-2 天；椰水分裝冷凍。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/顆"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/顆"
+        },
+        {
+          "region": "南部",
+          "range": "40-80 元/顆",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "50-100 元/顆"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-coconut.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg",
+      "wiki_image": "Cocos_nucifera_-_Köhler–s_Medizinal-Pflanzen-187.jpg"
+    },
+    "betel-nut": {
+      "id": "betel-nut",
+      "names": {
+        "zh": "檳榔",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Areca catechu"
+      },
+      "wiki_title": "檳榔",
+      "family": null,
+      "intro": "棕櫚科檳榔屬的常綠高大棕櫚果實。綠色橢圓形果實，台灣特殊飲食文化象徵。南投、嘉義、屏東山區大量栽培。全年可採果。**長期食用為一級致癌物**，不建議鮮食。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投",
+        "嘉義",
+        "屏東"
+      ],
+      "varieties": [
+        "菁仔",
+        "白肉檳榔"
+      ],
+      "nutrition": [
+        "檳榔鹼（致癌物）"
+      ],
+      "storage": "冷藏 1-2 週；醃漬後保存更久。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "依季節波動大"
+        },
+        {
+          "region": "中部",
+          "range": "南投產地"
+        },
+        {
+          "region": "南部",
+          "range": "嘉義屏東產地"
+        },
+        {
+          "region": "東部",
+          "range": "花東山區"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Beetle_palm_with_nut_bunch.jpg",
+        "license": "CC BY-SA 2.5",
+        "local": "data/covers/fruit-betel-nut.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Beetle_palm_with_nut_bunch.jpg",
+      "wiki_image": "Beetle_palm_with_nut_bunch.jpg"
+    },
+    "tomato-cherry": {
+      "id": "tomato-cherry",
+      "names": {
+        "zh": "小番茄",
+        "zh_alt": [
+          "聖女番茄",
+          "玉女番茄"
+        ],
+        "en": null,
+        "scientific": "Solanum lycopersicum"
+      },
+      "wiki_title": "番茄",
+      "family": null,
+      "intro": "茄科番茄屬的小型品種，玉女、聖女為台灣最常見品種。橢圓或圓形小果實，鮮紅色酸甜可口。雲林、嘉義、台南為主要產區。11 月至隔年 4 月為盛產期。當水果食用為主。",
+      "season_months": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "嘉義",
+        "台南"
+      ],
+      "varieties": [
+        "玉女",
+        "聖女",
+        "小蜜貝兒",
+        "黃色聖女"
+      ],
+      "nutrition": [
+        "茄紅素",
+        "維生素 C",
+        "葉酸",
+        "鉀"
+      ],
+      "storage": "常溫 3-5 天；冷藏 1 週；食用前清洗。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-150 元/斤",
+          "note": "雲林產地"
+        },
+        {
+          "region": "南部",
+          "range": "60-130 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "80-160 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-tomato-cherry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+      "wiki_image": "Tomato_je.jpg"
+    },
+    "tomato-beef": {
+      "id": "tomato-beef",
+      "names": {
+        "zh": "牛番茄",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Solanum lycopersicum"
+      },
+      "wiki_title": "番茄",
+      "family": null,
+      "intro": "茄科番茄屬的大型品種，主要作為料理用，亦可當水果切片食用。台中、雲林為主要產區。11 月至隔年 5 月為產季。果肉飽滿汁多，沙拉、煮湯、燉煮皆宜。",
+      "season_months": [
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台中",
+        "雲林"
+      ],
+      "varieties": [
+        "黑柿仔",
+        "桃太郎",
+        "牛番茄"
+      ],
+      "nutrition": [
+        "茄紅素",
+        "維生素 C",
+        "鉀",
+        "葉酸"
+      ],
+      "storage": "常溫熟成；冷藏 1 週；冷藏會降低風味。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-80 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-70 元/斤",
+          "note": "台中產地"
+        },
+        {
+          "region": "南部",
+          "range": "30-75 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "35-80 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-tomato-beef.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+      "wiki_image": "Tomato_je.jpg"
+    },
+    "bird-cherry": {
+      "id": "bird-cherry",
+      "names": {
+        "zh": "山桑椹",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "桑",
+      "family": null,
+      "intro": "桑科桑屬的山桑椹野生型，比栽培桑椹較小、酸甜更明顯。低海拔山區常見，3-5 月為產季。常見孩童採食或農家自釀桑椹酒。",
+      "season_months": [
+        3,
+        4,
+        5
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "低海拔山區"
+      ],
+      "varieties": [
+        "野生山桑",
+        "原生種"
+      ],
+      "nutrition": [
+        "花青素",
+        "維生素 C",
+        "鐵質"
+      ],
+      "storage": "冷藏 2-3 天；不耐久放；可釀酒製醬。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "野採或贈送為主"
+        },
+        {
+          "region": "中部",
+          "range": "野採或贈送為主"
+        },
+        {
+          "region": "南部",
+          "range": "野採或贈送為主"
+        },
+        {
+          "region": "東部",
+          "range": "野採或贈送為主"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "native-strawberry": {
+      "id": "native-strawberry",
+      "names": {
+        "zh": "蛇莓",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Duchesnea indica"
+      },
+      "wiki_title": "蛇莓",
+      "family": null,
+      "intro": "薔薇科蛇莓屬的多年生草本果實。台灣全島山區常見，不是真正的草莓而是同科植物。鮮紅色果實雖可食但味道平淡。4-7 月為產季。多作為觀賞地被植物。",
+      "season_months": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全台山區"
+      ],
+      "varieties": [
+        "原生蛇莓"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維"
+      ],
+      "storage": "野採後立即食用；不耐放。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "野採"
+        },
+        {
+          "region": "中部",
+          "range": "野採"
+        },
+        {
+          "region": "南部",
+          "range": "野採"
+        },
+        {
+          "region": "東部",
+          "range": "野採"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Duchesnea_indica9.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-native-strawberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Duchesnea_indica9.jpg",
+      "wiki_image": "Duchesnea_indica9.jpg"
+    },
+    "rubus-formosanus": {
+      "id": "rubus-formosanus",
+      "names": {
+        "zh": "台灣懸鉤子",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "台灣懸鉤子",
+      "family": null,
+      "intro": "薔薇科懸鉤子屬的台灣特有種野生果。中海拔山區常見，紅色聚合果酸甜可口。5-7 月為產季，登山客常見的野莓。多作為野味採集，市面少見販售。",
+      "season_months": [
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "中海拔山區"
+      ],
+      "varieties": [
+        "台灣懸鉤子",
+        "高山懸鉤子"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "花青素",
+        "膳食纖維"
+      ],
+      "storage": "野採後立即食用；不耐放。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "野採"
+        },
+        {
+          "region": "中部",
+          "range": "野採"
+        },
+        {
+          "region": "南部",
+          "range": "野採"
+        },
+        {
+          "region": "東部",
+          "range": "野採"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:DSC_0246_Rubus_formosensis_Ktze.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-rubus-formosanus.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/DSC_0246_Rubus_formosensis_Ktze.jpg",
+      "wiki_image": "DSC_0246_Rubus_formosensis_Ktze.jpg"
+    },
+    "aizoaceae": {
+      "id": "aizoaceae",
+      "names": {
+        "zh": "馬齒莧果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Portulaca oleracea"
+      },
+      "wiki_title": "馬齒莧",
+      "family": null,
+      "intro": "馬齒莧科馬齒莧屬的一年生肉質草本，俗稱「豬母乳」。多為蔬菜食用但種子部分視為小型果實。全台路邊雜地常見。6-9 月為盛期。在排灣族與部分客家料理中是傳統食材。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全台"
+      ],
+      "varieties": [
+        "馬齒莧",
+        "豬母草"
+      ],
+      "nutrition": [
+        "Omega-3",
+        "維生素 A",
+        "鎂",
+        "鉀"
+      ],
+      "storage": "冷藏 1 週；當菜葉料理為主。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "野採或市集"
+        },
+        {
+          "region": "中部",
+          "range": "野採或市集"
+        },
+        {
+          "region": "南部",
+          "range": "野採或市集"
+        },
+        {
+          "region": "東部",
+          "range": "野採或市集"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Portulaca_oleracea_stems.jpg",
+        "license": "CC BY-SA 2.5",
+        "local": "data/covers/fruit-aizoaceae.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Portulaca_oleracea_stems.jpg",
+      "wiki_image": "Portulaca_oleracea_stems.jpg"
+    },
+    "chinese-olive": {
+      "id": "chinese-olive",
+      "names": {
+        "zh": "牛心橄欖",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "橄欖",
+      "family": null,
+      "intro": "橄欖科橄欖屬的常綠喬木果實，其中牛心橄欖為大果型品種。果型較圓飽，南投、苗栗有少量栽培。10-12 月為產季。多用於製作蜜餞或藥用。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投",
+        "苗栗"
+      ],
+      "varieties": [
+        "牛心橄欖",
+        "白欖",
+        "烏欖"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "多酚"
+      ],
+      "storage": "冷藏 2 週；醃漬蜜餞可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "120-220 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "strawberry-pear": {
+      "id": "strawberry-pear",
+      "names": {
+        "zh": "草莓梨",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "量天尺屬",
+      "family": null,
+      "intro": "仙人掌科量天尺屬的特殊品種果實，火龍果近親。果皮較薄、果肉粉紅或黃色、味道更接近草莓。南部少量栽培。7-9 月為產季，市場罕見。",
+      "season_months": [
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部零星"
+      ],
+      "varieties": [
+        "黃皮草莓梨",
+        "粉肉草莓梨"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C",
+        "甜菜紅素"
+      ],
+      "storage": "冷藏 5-7 天；切開後 1-2 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤",
+          "note": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hylocereus_undatus_in_bloom_in_Kona.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-strawberry-pear.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hylocereus_undatus_in_bloom_in_Kona.jpg/3840px-Hylocereus_undatus_in_bloom_in_Kona.jpg",
+      "wiki_image": "Hylocereus_undatus_in_bloom_in_Kona.jpg"
+    },
+    "jiang-bing": {
+      "id": "jiang-bing",
+      "names": {
+        "zh": "薑黃果",
+        "zh_alt": [
+          "薑黃"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "薑黃",
+      "family": null,
+      "intro": "薑科薑黃屬的多年生草本根莖類，主要當香料與藥用，但成熟果實亦可加工。南部少量栽培。10-12 月為地下根莖採收期。咖哩、薑黃飯主要原料。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部"
+      ],
+      "varieties": [
+        "紅薑黃",
+        "黃薑黃",
+        "黑薑黃"
+      ],
+      "nutrition": [
+        "薑黃素",
+        "維生素 C",
+        "鐵質"
+      ],
+      "storage": "新鮮根冷藏 2 週；曬乾粉末可保存 1 年。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "120-260 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-220 元/斤",
+          "note": "屏東產地"
+        },
+        {
+          "region": "東部",
+          "range": "150-300 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Curcuma_longa_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-199.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-jiang-bing.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Curcuma_longa_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-199.jpg",
+      "wiki_image": "Curcuma_longa_-_Köhler–s_Medizinal-Pflanzen-199.jpg"
+    },
+    "jujube-wild": {
+      "id": "jujube-wild",
+      "names": {
+        "zh": "山棗",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "棗屬",
+      "family": null,
+      "intro": "鼠李科棗屬的野生種果實。低海拔山區常見小型棗果，較栽培棗較小但味道濃郁。9-10 月為產季，多為野採或農家自食。",
+      "season_months": [
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "低海拔山區"
+      ],
+      "varieties": [
+        "山棗",
+        "野棗"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鐵質",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 1 週；曬乾可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "野採或農會"
+        },
+        {
+          "region": "中部",
+          "range": "野採或農會"
+        },
+        {
+          "region": "南部",
+          "range": "野採或農會"
+        },
+        {
+          "region": "東部",
+          "range": "野採或農會"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:ZiziphusJujubaVarSpinosa.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-jujube-wild.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/ZiziphusJujubaVarSpinosa.jpg",
+      "wiki_image": "ZiziphusJujubaVarSpinosa.jpg"
+    },
+    "monstera-fruit": {
+      "id": "monstera-fruit",
+      "names": {
+        "zh": "龜背芋果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Monstera deliciosa"
+      },
+      "wiki_title": "龜背芋",
+      "family": null,
+      "intro": "天南星科龜背芋屬的觀葉植物果實。果序由綠變黃熟成，果肉甜如鳳梨與香蕉混合。台灣溫室零星栽培，4-10 月可結果。**未熟有毒，需完全成熟方可食用**。",
+      "season_months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "溫室零星"
+      ],
+      "varieties": [
+        "龜背芋"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀"
+      ],
+      "storage": "未熟發苞片自然脫落為熟成指標；熟後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "極罕見"
+        },
+        {
+          "region": "中部",
+          "range": "極罕見"
+        },
+        {
+          "region": "南部",
+          "range": "極罕見"
+        },
+        {
+          "region": "東部",
+          "range": "極罕見"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Monstera_deliciosa_neer_Luochi.JPG",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-monstera-fruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Monstera_deliciosa_neer_Luochi.JPG/3840px-Monstera_deliciosa_neer_Luochi.JPG",
+      "wiki_image": "Monstera_deliciosa_neer_Luochi.JPG"
+    },
+    "surinam-cherry": {
+      "id": "surinam-cherry",
+      "names": {
+        "zh": "蘇利南櫻桃",
+        "zh_alt": [
+          "巴西櫻桃",
+          "七彩櫻桃"
+        ],
+        "en": null,
+        "scientific": "Eugenia brasiliensis"
+      },
+      "wiki_title": "巴西櫻桃",
+      "family": null,
+      "intro": "桃金孃科番櫻桃屬的常綠灌木果實。橫切呈八瓣星形是其招牌特色。果肉酸甜帶獨特香氣。南部零星栽培。4-5 月與 11 月為產季，市場罕見。",
+      "season_months": [
+        4,
+        5,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部零星"
+      ],
+      "varieties": [
+        "紅蘇利南",
+        "黑蘇利南",
+        "黃蘇利南"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 3-5 天；不耐久放。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "罕見"
+        },
+        {
+          "region": "南部",
+          "range": "罕見"
+        },
+        {
+          "region": "東部",
+          "range": "罕見"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Eugenia_brasiliensis.JPG",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-surinam-cherry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Eugenia_brasiliensis.JPG",
+      "wiki_image": "Eugenia_brasiliensis.JPG"
+    },
+    "miracle-fruit": {
+      "id": "miracle-fruit",
+      "names": {
+        "zh": "神秘果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "神秘果",
+      "family": null,
+      "intro": "山欖科神秘果屬的常綠灌木果實。鮮紅色橢圓形小果實，本身味道平淡但含「神秘果蛋白」可使後續吃的酸味食物變甜，故名「神秘果」。南部零星栽培。5-10 月為產季。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部零星"
+      ],
+      "varieties": [
+        "神秘果"
+      ],
+      "nutrition": [
+        "神秘果蛋白",
+        "維生素 C"
+      ],
+      "storage": "冷藏 1 週；冷凍可保存風味；含於口中即食。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "罕見"
+        },
+        {
+          "region": "南部",
+          "range": "罕見"
+        },
+        {
+          "region": "東部",
+          "range": "罕見"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:MiracleBerry.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-miracle-fruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/MiracleBerry.jpg",
+      "wiki_image": "MiracleBerry.jpg"
+    },
+    "barbados-cherry": {
+      "id": "barbados-cherry",
+      "names": {
+        "zh": "西印度櫻桃",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Malpighia emarginata"
+      },
+      "wiki_title": "西印度櫻桃",
+      "family": null,
+      "intro": "黃褥花科金虎尾屬的常綠灌木果實。鮮紅色三裂溝小果實，富含維生素 C 是其招牌（含量是檸檬的 30 倍以上）。南部零星栽培。5-10 月為產季。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部零星"
+      ],
+      "varieties": [
+        "西印度櫻桃"
+      ],
+      "nutrition": [
+        "維生素 C（極高）",
+        "維生素 A",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 3-5 天；冷凍可長期保存做飲品。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤",
+          "note": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Malpighia_glabra_blossom_and_fruit.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-barbados-cherry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malpighia_glabra_blossom_and_fruit.jpg",
+      "wiki_image": "Malpighia_glabra_blossom_and_fruit.jpg"
+    },
+    "jambolan": {
+      "id": "jambolan",
+      "names": {
+        "zh": "蒲桃",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Syzygium jambos"
+      },
+      "wiki_title": "蒲桃",
+      "family": null,
+      "intro": "桃金孃科蒲桃屬的常綠喬木果實。淡綠色或粉紅色果實，果肉清香似蓮霧但更為清淡。全台零星栽培。5-7 月為產季，市場較少見。",
+      "season_months": [
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全台零星"
+      ],
+      "varieties": [
+        "蒲桃",
+        "海南蒲桃"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 5-7 天；常溫 2-3 天；輕拭即食。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "60-150 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "100-200 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Syzygium_jambos.JPG",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-jambolan.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Syzygium_jambos.JPG",
+      "wiki_image": "Syzygium_jambos.JPG"
+    },
+    "java-apple": {
+      "id": "java-apple",
+      "names": {
+        "zh": "香蓮霧",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Syzygium samarangense"
+      },
+      "wiki_title": "蓮霧",
+      "family": null,
+      "intro": "桃金孃科赤楠屬的特殊蓮霧品種，紅色或粉紅色，香氣特別濃郁。屏東有少量栽培。4-6 月為產季，與一般蓮霧產季稍有差異。",
+      "season_months": [
+        4,
+        5,
+        6
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東"
+      ],
+      "varieties": [
+        "香蓮霧",
+        "翡翠蓮霧"
+      ],
+      "nutrition": [
+        "水分",
+        "維生素 C",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 1 週；常溫 2-3 天；輕拭即食。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-150 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "60-110 元/斤",
+          "note": "屏東產地"
+        },
+        {
+          "region": "東部",
+          "range": "80-150 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lainwu_%28Wax_apple%29_WP_001223.jpg",
+        "license": "CC BY 3.0",
+        "local": "data/covers/fruit-java-apple.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lainwu_%28Wax_apple%29_WP_001223.jpg",
+      "wiki_image": "Lainwu_(Wax_apple)_WP_001223.jpg"
+    },
+    "salak": {
+      "id": "salak",
+      "names": {
+        "zh": "蛇皮果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "蛇皮果",
+      "family": null,
+      "intro": "棕櫚科蛇皮果屬的果實。果皮如蛇皮般有鱗片，故名。果肉淡黃色酸甜帶澀，原產印尼。台灣多為進口。全年皆可進口，市場較少見。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口"
+      ],
+      "varieties": [
+        "印尼蛇皮果",
+        "泰國蛇皮果"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 1-2 週；剝皮後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "220-420 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Salak_%28Salacca_zalacca%29%2C_2015-05-17.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-salak.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Salak_%28Salacca_zalacca%29%2C_2015-05-17.jpg",
+      "wiki_image": "Salak_(Salacca_zalacca),_2015-05-17.jpg"
+    },
+    "pomegranate": {
+      "id": "pomegranate",
+      "names": {
+        "zh": "石榴",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Punica granatum"
+      },
+      "wiki_title": "石榴",
+      "family": null,
+      "intro": "千屈菜科石榴屬的落葉小喬木果實。橙紅色硬皮包覆紅寶石般顆粒狀果肉，每顆內含種子。台灣中南部零星栽培。9-11 月為產季。常作為料理裝飾與健康食品。",
+      "season_months": [
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "中南部零星"
+      ],
+      "varieties": [
+        "紅石榴",
+        "白石榴"
+      ],
+      "nutrition": [
+        "花青素",
+        "維生素 C",
+        "鞣花酸",
+        "鉀"
+      ],
+      "storage": "冷藏 2-3 個月；常溫 1 個月；剝粒後冷凍。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-180 元/顆"
+        },
+        {
+          "region": "中部",
+          "range": "70-150 元/顆"
+        },
+        {
+          "region": "南部",
+          "range": "60-130 元/顆"
+        },
+        {
+          "region": "東部",
+          "range": "80-160 元/顆"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Punica_granatum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-115.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-pomegranate.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Punica_granatum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-115.jpg",
+      "wiki_image": "Punica_granatum_-_Köhler–s_Medizinal-Pflanzen-115.jpg"
+    },
+    "fig": {
+      "id": "fig",
+      "names": {
+        "zh": "無花果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Ficus carica"
+      },
+      "wiki_title": "無花果",
+      "family": null,
+      "intro": "桑科榕屬的落葉灌木果實。表皮紫色或綠色、果肉粉紅色甜糯，內含細小種子。桃園、苗栗、嘉義有少量栽培。6-10 月為產季。鮮果不耐久放，多製成果乾與果醬。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "桃園",
+        "苗栗",
+        "嘉義"
+      ],
+      "varieties": [
+        "紫色無花果",
+        "綠色無花果",
+        "黑色無花果"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "鉀",
+        "鈣",
+        "維生素 K"
+      ],
+      "storage": "冷藏 3-5 天；不耐久放；曬乾可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "180-380 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-330 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ficus_carica_L%2C_1771.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-fig.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg",
+      "wiki_image": "Ficus_carica_L,_1771.jpg"
+    },
+    "ugni": {
+      "id": "ugni",
+      "names": {
+        "zh": "智利桃金孃",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "桃金孃科",
+      "family": "二分為两个亚科",
+      "intro": "桃金孃科鳥木屬的常綠灌木果實。深紫紅色小漿果，香氣獨特似草莓與鳳梨。山區零星栽培。10-11 月為短暫產期，市場極罕見，多為園藝玩家自種。",
+      "season_months": [
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "山區零星"
+      ],
+      "varieties": [
+        "智利桃金孃",
+        "Ugni Molinae"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "花青素",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 3-5 天；不耐久放；可釀酒製醬。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "極罕見"
+        },
+        {
+          "region": "中部",
+          "range": "極罕見"
+        },
+        {
+          "region": "南部",
+          "range": "極罕見"
+        },
+        {
+          "region": "東部",
+          "range": "極罕見"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Myrtus_communis_L._subsp._communis_-_52505075998.png",
+        "license": "CC BY 2.0",
+        "local": "data/covers/fruit-ugni.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Myrtus_communis_L._subsp._communis_-_52505075998.png",
+      "wiki_image": "Myrtus_communis_L._subsp._communis_-_52505075998.png"
+    },
+    "yangmei-red": {
+      "id": "yangmei-red",
+      "names": {
+        "zh": "紅楊梅",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "楊梅",
+      "family": null,
+      "intro": "楊梅科楊梅屬的紅色品種，比黑楊梅顏色更鮮豔，酸度較高。桃園、新竹有少量栽培。4-6 月為產季。多用於釀酒、製作果醬。",
+      "season_months": [
+        4,
+        5,
+        6
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "桃園",
+        "新竹"
+      ],
+      "varieties": [
+        "紅楊梅",
+        "粉紅楊梅"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "花青素",
+        "膳食纖維",
+        "有機酸"
+      ],
+      "storage": "冷藏 2-3 天；不耐久放；可冷凍。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "90-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "120-220 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Myrica_rubra5.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-yangmei-red.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Myrica_rubra5.jpg",
+      "wiki_image": "Myrica_rubra5.jpg"
+    },
+    "prune": {
+      "id": "prune",
+      "names": {
+        "zh": "黑棗乾",
+        "zh_alt": [
+          "西梅"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "西梅",
+      "family": null,
+      "intro": "薔薇科李屬西梅的乾燥加工品。深紫黑色果乾，果肉甜美富含纖維，有助腸道蠕動。台灣多為進口。全年皆有，市售常見於零食區。",
+      "season_months": [
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口為主"
+      ],
+      "varieties": [
+        "加州西梅",
+        "法國西梅"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "鐵質",
+        "鉀",
+        "山梨醇"
+      ],
+      "storage": "密封常溫陰涼處 6 個月；冷藏可保存 1 年。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "130-280 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-300 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "180-320 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": null,
+        "license": null,
+        "local": null
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03"
+    },
+    "fig-dried": {
+      "id": "fig-dried",
+      "names": {
+        "zh": "無花果乾",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Ficus carica"
+      },
+      "wiki_title": "無花果",
+      "family": null,
+      "intro": "桑科榕屬無花果的乾燥加工品。鮮果經日曬或低溫烘乾製成。質地有嚼勁、甜度集中，常作為烘焙原料、麥片配料、酒漬甜點。多為進口（土耳其、伊朗）。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全年加工"
+      ],
+      "varieties": [
+        "土耳其無花果乾",
+        "伊朗無花果乾"
+      ],
+      "nutrition": [
+        "膳食纖維（濃縮）",
+        "鈣",
+        "鐵質",
+        "鉀"
+      ],
+      "storage": "密封常溫陰涼處 6 個月；冷藏 1 年。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "220-420 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ficus_carica_L%2C_1771.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-fig-dried.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg",
+      "wiki_image": "Ficus_carica_L,_1771.jpg"
+    },
+    "bilimbi": {
+      "id": "bilimbi",
+      "names": {
+        "zh": "三斂",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "三斂",
+      "family": null,
+      "intro": "酢漿草科陽桃屬的近親，又稱「三斂」。果實圓柱形綠色酸度高，可做酸湯與蜜餞。南部零星栽培。3-10 月為產季，市場罕見。",
+      "season_months": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南部零星"
+      ],
+      "varieties": [
+        "三斂"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "草酸",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 1 週；多製成蜜餞或入菜。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "罕見"
+        },
+        {
+          "region": "中部",
+          "range": "罕見"
+        },
+        {
+          "region": "南部",
+          "range": "罕見"
+        },
+        {
+          "region": "東部",
+          "range": "罕見"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Averrhoa_bilimbi_fruit_by_Sugeesh.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-bilimbi.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Averrhoa_bilimbi_fruit_by_Sugeesh.jpg",
+      "wiki_image": "Averrhoa_bilimbi_fruit_by_Sugeesh.jpg"
+    },
+    "longkong": {
+      "id": "longkong",
+      "names": {
+        "zh": "龍宮果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "龍貢",
+      "family": null,
+      "intro": "與龍宮果為同科同屬，市場上「龍宮果」「Longkong」「杜古」常為同類商品。多為印尼、泰國進口。8-10 月為產季。",
+      "season_months": [
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口"
+      ],
+      "varieties": [
+        "Longkong",
+        "Duku"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 5-7 天；剝殼後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "150-330 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "200-400 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lanzones.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-longkong.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lanzones.jpg",
+      "wiki_image": "Lanzones.jpg"
+    },
+    "snake-fruit": {
+      "id": "snake-fruit",
+      "names": {
+        "zh": "沙梨果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "沙梨",
+      "family": null,
+      "intro": "薔薇科梨屬的特殊野生型，外皮粗糙似蛇皮。中海拔山區零星可見。9-10 月為產季，多為野採。台灣與東南亞蛇皮果（Salak）名稱類似但為不同物種。",
+      "season_months": [
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "中海拔山區"
+      ],
+      "varieties": [
+        "山地沙梨"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C"
+      ],
+      "storage": "冷藏 1-2 週；不耐久放。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "野採"
+        },
+        {
+          "region": "中部",
+          "range": "野採"
+        },
+        {
+          "region": "南部",
+          "range": "野採"
+        },
+        {
+          "region": "東部",
+          "range": "野採"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Asian.pear-Pyrus.pyrifolia-05.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-snake-fruit.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
+      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+    },
+    "kiwi-golden": {
+      "id": "kiwi-golden",
+      "names": {
+        "zh": "黃金奇異果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "獼猴桃",
+      "family": null,
+      "intro": "獼猴桃科獼猴桃屬的金黃肉品種，果肉金黃色甜度更高、無刺毛口感滑順。多為紐西蘭進口（Zespri 黃金奇異果）。9-11 月為紐西蘭產季。",
+      "season_months": [
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口為主"
+      ],
+      "varieties": [
+        "黃金奇異果",
+        "Zespri Gold"
+      ],
+      "nutrition": [
+        "維生素 C（極高）",
+        "葉酸",
+        "鉀",
+        "膳食纖維"
+      ],
+      "storage": "硬時常溫熟成；軟熟後冷藏 1 週內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "50-120 元/顆"
+        },
+        {
+          "region": "中部",
+          "range": "45-100 元/顆"
+        },
+        {
+          "region": "南部",
+          "range": "50-110 元/顆"
+        },
+        {
+          "region": "東部",
+          "range": "55-120 元/顆"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+        "license": "CC BY-SA 2.5",
+        "local": "data/covers/fruit-kiwi-golden.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/3840px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
+      "wiki_image": "Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg"
+    },
+    "cranberry": {
+      "id": "cranberry",
+      "names": {
+        "zh": "蔓越莓",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "蔓越莓",
+      "family": null,
+      "intro": "杜鵑花科越橘屬的常綠小灌木果實。鮮紅色酸度極高，幾乎不生食，多製成果汁、果乾、果醬。多由美國、加拿大進口冷凍鮮果或加工品。10-12 月為北美產季。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口為主"
+      ],
+      "varieties": [
+        "美洲蔓越莓",
+        "歐洲越橘"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "原花青素",
+        "鞣花酸",
+        "膳食纖維"
+      ],
+      "storage": "鮮果冷藏 1 個月；冷凍 1 年；果乾密封陰涼處 1 年。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "200-400 元/斤鮮果",
+          "note": "進口"
+        },
+        {
+          "region": "中部",
+          "range": "180-360 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "200-400 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "220-420 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cranberry_bog.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-cranberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cranberry_bog.jpg",
+      "wiki_image": "Cranberry_bog.jpg"
+    },
+    "blackberry": {
+      "id": "blackberry",
+      "names": {
+        "zh": "黑莓",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "黑莓",
+      "family": null,
+      "intro": "薔薇科懸鉤子屬的灌木果實。深紫黑色聚合果，比樹莓更大顆，酸甜風味濃郁。多為進口冷凍品。6-8 月為北半球產季。",
+      "season_months": [
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口為主"
+      ],
+      "varieties": [
+        "黑樹莓",
+        "美國黑莓"
+      ],
+      "nutrition": [
+        "花青素（極高）",
+        "維生素 C",
+        "膳食纖維",
+        "錳"
+      ],
+      "storage": "冷藏 2-3 天；冷凍可保存 6 個月。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "300-700 元/盒（150g）"
+        },
+        {
+          "region": "中部",
+          "range": "280-650 元/盒"
+        },
+        {
+          "region": "南部",
+          "range": "300-700 元/盒"
+        },
+        {
+          "region": "東部",
+          "range": "320-700 元/盒"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ripe%2C_ripening%2C_and_green_blackberries.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-blackberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ripe%2C_ripening%2C_and_green_blackberries.jpg",
+      "wiki_image": "Ripe,_ripening,_and_green_blackberries.jpg"
+    },
+    "redcurrant": {
+      "id": "redcurrant",
+      "names": {
+        "zh": "紅醋栗",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Ribes uva-crispa"
+      },
+      "wiki_title": "醋栗",
+      "family": null,
+      "intro": "虎耳草科茶藨子屬的小型灌木果實。鮮紅色透明小漿果成串生長，酸度高常作果醬與裝飾。歐洲料理常見，多為進口。6-7 月為產季。",
+      "season_months": [
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口"
+      ],
+      "varieties": [
+        "紅醋栗",
+        "白醋栗"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "花青素",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 5-7 天；冷凍可保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "進口少量"
+        },
+        {
+          "region": "中部",
+          "range": "進口少量"
+        },
+        {
+          "region": "南部",
+          "range": "進口少量"
+        },
+        {
+          "region": "東部",
+          "range": "進口少量"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stachelbeeren.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-redcurrant.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Stachelbeeren.jpg",
+      "wiki_image": "Stachelbeeren.jpg"
+    },
+    "gooseberry": {
+      "id": "gooseberry",
+      "names": {
+        "zh": "醋栗",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Ribes uva-crispa"
+      },
+      "wiki_title": "醋栗",
+      "family": null,
+      "intro": "虎耳草科茶藨子屬的綠色或紫色小漿果。比醋栗大、有獨特酸甜風味。台灣不產，多為進口加工品如醋栗果醬。6-8 月為原產地產季。",
+      "season_months": [
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "進口"
+      ],
+      "varieties": [
+        "綠醋栗",
+        "紫醋栗"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "冷藏 1-2 週；冷凍可保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "進口少量"
+        },
+        {
+          "region": "中部",
+          "range": "進口少量"
+        },
+        {
+          "region": "南部",
+          "range": "進口少量"
+        },
+        {
+          "region": "東部",
+          "range": "進口少量"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stachelbeeren.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-gooseberry.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Stachelbeeren.jpg",
+      "wiki_image": "Stachelbeeren.jpg"
+    },
+    "persimmon-fuyu": {
+      "id": "persimmon-fuyu",
+      "names": {
+        "zh": "富有甜柿",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "柿",
+      "family": null,
+      "intro": "柿樹科柿屬的甜柿品種，果型扁圓、果肉橙紅色，可硬時直接食用不需脫澀。台中和平、嘉義為主要產區。10-12 月為產季。",
+      "season_months": [
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台中",
+        "嘉義"
+      ],
+      "varieties": [
+        "富有甜柿"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "β-胡蘿蔔素",
+        "膳食纖維",
+        "維生素 C"
+      ],
+      "storage": "冷藏 2-3 週；常溫 1 週；不需削皮即可食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-150 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-130 元/斤",
+          "note": "和平梨山產地"
+        },
+        {
+          "region": "南部",
+          "range": "60-140 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "70-150 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-persimmon-fuyu.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/3840px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
+      "wiki_image": "Fuyu_persimmon_fruits,_one_cut_open.jpg"
+    },
+    "persimmon-jiro": {
+      "id": "persimmon-jiro",
+      "names": {
+        "zh": "次郎甜柿",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "柿",
+      "family": null,
+      "intro": "柿樹科柿屬的另一甜柿品種，果型較尖、糖度更高。台中和平梨山一帶為台灣主要產區。10-11 月為產季，產量較富有甜柿少。",
+      "season_months": [
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台中和平"
+      ],
+      "varieties": [
+        "次郎甜柿"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "β-胡蘿蔔素",
+        "膳食纖維"
+      ],
+      "storage": "冷藏 2-3 週；不需削皮即可食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "70-160 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "60-140 元/斤",
+          "note": "梨山產地"
+        },
+        {
+          "region": "南部",
+          "range": "70-150 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "80-160 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-persimmon-jiro.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/3840px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
+      "wiki_image": "Fuyu_persimmon_fruits,_one_cut_open.jpg"
+    },
+    "pear-snow": {
+      "id": "pear-snow",
+      "names": {
+        "zh": "雪梨",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "沙梨",
+      "family": null,
+      "intro": "薔薇科梨屬的高山梨品種，果肉雪白多汁、糖酸比佳。梨山一帶高海拔栽培。8-10 月為產季，是中秋節前後熱門禮品水果。",
+      "season_months": [
+        8,
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "梨山"
+      ],
+      "varieties": [
+        "雪梨",
+        "三星梨"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C",
+        "鉀",
+        "山梨醇"
+      ],
+      "storage": "冷藏 3-4 週；常溫 1 週。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "70-160 元/斤",
+          "note": "梨山產地"
+        },
+        {
+          "region": "南部",
+          "range": "80-170 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "85-180 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Asian.pear-Pyrus.pyrifolia-05.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-pear-snow.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
+      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+    },
+    "pear-shingo": {
+      "id": "pear-shingo",
+      "names": {
+        "zh": "新興梨",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "沙梨",
+      "family": null,
+      "intro": "薔薇科梨屬的高接梨品種之一，果型大、果肉細緻。台中、苗栗為主要產區。8-9 月為產季。是中秋禮盒常見品種。",
+      "season_months": [
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台中",
+        "苗栗"
+      ],
+      "varieties": [
+        "新興梨"
+      ],
+      "nutrition": [
+        "膳食纖維",
+        "維生素 C",
+        "鉀"
+      ],
+      "storage": "冷藏 2-3 週；常溫 5-7 天。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-130 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-110 元/斤",
+          "note": "卓蘭產地"
+        },
+        {
+          "region": "南部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "65-130 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Asian.pear-Pyrus.pyrifolia-05.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-pear-shingo.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
+      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+    },
+    "lime": {
+      "id": "lime",
+      "names": {
+        "zh": "萊姆",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "萊姆",
+      "family": null,
+      "intro": "芸香科柑橘屬的常綠小喬木果實。比檸檬小、皮綠色、酸度更高、香氣特殊。屏東有少量栽培。6-9 月為產季。是調酒、Mojito、墨西哥料理必備食材。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "屏東"
+      ],
+      "varieties": [
+        "波斯萊姆",
+        "塔希提萊姆",
+        "墨西哥萊姆"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "檸檬酸",
+        "鉀"
+      ],
+      "storage": "冷藏 1 個月；常溫 1 週；切片冷凍可長期保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-150 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-130 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-110 元/斤",
+          "note": "屏東產地"
+        },
+        {
+          "region": "東部",
+          "range": "60-140 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lim%C3%A3o_Citrus_Aurantifolia.JPG",
+        "license": "Public domain",
+        "local": "data/covers/fruit-lime.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lim%C3%A3o_Citrus_Aurantifolia.JPG",
+      "wiki_image": "Limão_Citrus_Aurantifolia.JPG"
+    },
+    "kalamansi": {
+      "id": "kalamansi",
+      "names": {
+        "zh": "四季桔",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Citrofortunella ×"
+      },
+      "wiki_title": "四季橘",
+      "family": null,
+      "intro": "芸香科柑橘屬的小型雜交柑橘。果實小巧綠皮、果汁酸度高，是東南亞料理與飲品常用調味。全台庭院零星栽培，全年皆可採收。多用於泡菜、海鮮料理、菲律賓 Calamansi 飲。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "全台"
+      ],
+      "varieties": [
+        "四季桔",
+        "Calamansi"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "檸檬酸"
+      ],
+      "storage": "常溫 1 週；冷藏 1 個月；榨汁冷凍。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-130 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-110 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "50-110 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "60-130 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Calamondin_in_our_front_yard.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-kalamansi.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Calamondin_in_our_front_yard.jpg",
+      "wiki_image": "Calamondin_in_our_front_yard.jpg"
+    },
+    "white-guava": {
+      "id": "white-guava",
+      "names": {
+        "zh": "白心芭樂",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Psidium guajava"
+      },
+      "wiki_title": "番石榴",
+      "family": null,
+      "intro": "桃金孃科番石榴屬的白心品種。果肉乳白色清脆甜美，是台灣最常見的芭樂類型。高雄燕巢、彰化社頭為主要產區，全年皆可生產。",
+      "season_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "高雄",
+        "彰化"
+      ],
+      "varieties": [
+        "珍珠芭樂",
+        "帝王芭樂",
+        "水晶芭樂",
+        "牛奶芭樂"
+      ],
+      "nutrition": [
+        "維生素 C（極高）",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "常溫 3-5 天；冷藏 1 週。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-60 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-50 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-45 元/斤",
+          "note": "燕巢產地"
+        },
+        {
+          "region": "東部",
+          "range": "30-55 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Psidium_guajava_fruit.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-white-guava.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Psidium_guajava_fruit.jpg",
+      "wiki_image": "Psidium_guajava_fruit.jpg"
+    },
+    "red-guava": {
+      "id": "red-guava",
+      "names": {
+        "zh": "紅心芭樂",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Psidium guajava"
+      },
+      "wiki_title": "番石榴",
+      "family": null,
+      "intro": "桃金孃科番石榴屬的紅心品種。果肉粉紅至深紅色，口感較軟、香氣濃郁但糖度比白心略低。南投、高雄為主要產區。6-11 月為盛產期。",
+      "season_months": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投",
+        "高雄"
+      ],
+      "varieties": [
+        "紅心芭樂",
+        "粉紅芭樂"
+      ],
+      "nutrition": [
+        "茄紅素",
+        "維生素 C",
+        "膳食纖維",
+        "β-胡蘿蔔素"
+      ],
+      "storage": "常溫 3-5 天；冷藏 1 週；切後立即食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-80 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "35-70 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "30-65 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "40-75 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Psidium_guajava_fruit.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-red-guava.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Psidium_guajava_fruit.jpg",
+      "wiki_image": "Psidium_guajava_fruit.jpg"
+    },
+    "kasturi-mango": {
+      "id": "kasturi-mango",
+      "names": {
+        "zh": "土芒果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "芒果",
+      "family": null,
+      "intro": "漆樹科芒果屬的台灣原生種，果型小但香氣濃郁，是台灣芒果之根源。台南、屏東為主產區。4-6 月為早期產季，多用於青芒果料理（醃製、芒果青、果醬）。",
+      "season_months": [
+        4,
+        5,
+        6
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "屏東"
+      ],
+      "varieties": [
+        "土芒果",
+        "本地種"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "維生素 C",
+        "膳食纖維"
+      ],
+      "storage": "未熟常溫熟成；熟後冷藏 3-5 天；青芒果可醃漬保存。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "40-80 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "35-70 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-50 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "40-75 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-kasturi-mango.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+    },
+    "irwin-mango": {
+      "id": "irwin-mango",
+      "names": {
+        "zh": "愛文芒果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "芒果",
+      "family": null,
+      "intro": "漆樹科芒果屬的愛文品種，是台灣最有名的芒果。果皮鮮紅、果肉橙黃多汁、香氣濃郁。台南玉井、屏東為主要產地。5-7 月為產季。經常外銷日本、香港、中國。",
+      "season_months": [
+        5,
+        6,
+        7
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南玉井",
+        "屏東"
+      ],
+      "varieties": [
+        "愛文（Irwin）"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "維生素 C",
+        "β-胡蘿蔔素",
+        "膳食纖維"
+      ],
+      "storage": "未熟常溫熟成 3-5 天；熟後冷藏 3-5 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-200 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "80-180 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "60-130 元/斤",
+          "note": "玉井產地"
+        },
+        {
+          "region": "東部",
+          "range": "100-180 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-irwin-mango.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+    },
+    "keitt-mango": {
+      "id": "keitt-mango",
+      "names": {
+        "zh": "凱特芒果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "芒果",
+      "family": null,
+      "intro": "漆樹科芒果屬的凱特品種，是晚熟大果型芒果。果皮綠色微紅、果肉清香、纖維少。台南、屏東為主要產地。7-9 月為產季，比愛文晚 1-2 個月。",
+      "season_months": [
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "屏東"
+      ],
+      "varieties": [
+        "凱特（Keitt）"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "維生素 C",
+        "膳食纖維"
+      ],
+      "storage": "常溫熟成；熟後冷藏 3-5 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-130 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-110 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-90 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "60-120 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-keitt-mango.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+    },
+    "golden-mango": {
+      "id": "golden-mango",
+      "names": {
+        "zh": "金煌芒果",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "芒果",
+      "family": null,
+      "intro": "漆樹科芒果屬的金煌品種，台灣自育的大果型芒果。果皮金黃色、果型碩大可達 1 公斤以上、纖維多但甜度高。台南、高雄為主要產地。6-8 月為產季。",
+      "season_months": [
+        6,
+        7,
+        8
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "高雄"
+      ],
+      "varieties": [
+        "金煌"
+      ],
+      "nutrition": [
+        "維生素 A",
+        "維生素 C",
+        "β-胡蘿蔔素",
+        "膳食纖維"
+      ],
+      "storage": "常溫熟成 3-5 天；熟後冷藏 3-5 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "40-80 元/斤",
+          "note": "產地直送"
+        },
+        {
+          "region": "東部",
+          "range": "60-110 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-golden-mango.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
+      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+    },
+    "sanrengo-pomelo": {
+      "id": "sanrengo-pomelo",
+      "names": {
+        "zh": "西施柚",
+        "zh_alt": [],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "文旦",
+      "family": null,
+      "intro": "芸香科柑橘屬的文旦品種之一，果型較大、肉質細緻甜度高。雲林、苗栗為主要產區。9-10 月為產季，與一般文旦相近但更為碩大。",
+      "season_months": [
+        9,
+        10
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "雲林",
+        "苗栗"
+      ],
+      "varieties": [
+        "西施柚"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "常溫陰涼通風 2-4 週；冷藏 1 個月以上。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "50-110 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "40-90 元/斤",
+          "note": "雲林產地"
+        },
+        {
+          "region": "南部",
+          "range": "50-100 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "55-110 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pomelo_fruit.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-sanrengo-pomelo.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/3840px-Pomelo_fruit.jpg",
+      "wiki_image": "Pomelo_fruit.jpg"
+    },
+    "red-pomelo": {
+      "id": "red-pomelo",
+      "names": {
+        "zh": "紅柚",
+        "zh_alt": [
+          "紅文旦"
+        ],
+        "en": null,
+        "scientific": null
+      },
+      "wiki_title": "文旦",
+      "family": null,
+      "intro": "芸香科柑橘屬的紅肉文旦品種，果肉粉紅至紅色，富含茄紅素。台南、花蓮為主要產區。9-11 月為產季，視覺與營養都比白肉文旦更受歡迎。",
+      "season_months": [
+        9,
+        10,
+        11
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南",
+        "花蓮"
+      ],
+      "varieties": [
+        "紅文旦",
+        "紅柚"
+      ],
+      "nutrition": [
+        "茄紅素",
+        "維生素 C",
+        "膳食纖維",
+        "鉀"
+      ],
+      "storage": "常溫陰涼通風 2-4 週；冷藏 1 個月以上。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-130 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-110 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "50-110 元/斤",
+          "note": "麻豆產地"
+        },
+        {
+          "region": "東部",
+          "range": "50-110 元/斤",
+          "note": "鶴岡產地"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pomelo_fruit.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-red-pomelo.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/3840px-Pomelo_fruit.jpg",
+      "wiki_image": "Pomelo_fruit.jpg"
+    },
+    "hami-melon": {
+      "id": "hami-melon",
+      "names": {
+        "zh": "哈密瓜-進口",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Cucumis melo"
+      },
+      "wiki_title": "甜瓜",
+      "family": null,
+      "intro": "葫蘆科甜瓜屬的高糖度大型甜瓜，原產新疆。果肉橙黃色、糖度極高、香氣濃郁。台灣多為新疆進口，部分中部溫室仿作。5-9 月為產季。",
+      "season_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "新疆進口為主"
+      ],
+      "varieties": [
+        "新疆哈密瓜",
+        "本地哈密瓜"
+      ],
+      "nutrition": [
+        "β-胡蘿蔔素",
+        "維生素 C",
+        "鉀",
+        "葉酸"
+      ],
+      "storage": "未切常溫熟成；切後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "100-300 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "90-260 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "100-280 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "120-300 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Muskmelon.jpg",
+        "license": "CC BY-SA 2.0",
+        "local": "data/covers/fruit-hami-melon.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Muskmelon.jpg",
+      "wiki_image": "Muskmelon.jpg"
+    },
+    "pineapple-mountain": {
+      "id": "pineapple-mountain",
+      "names": {
+        "zh": "高山鳳梨",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Ananas comosus"
+      },
+      "wiki_title": "鳳梨",
+      "family": null,
+      "intro": "鳳梨科鳳梨屬的高山栽培品種。南投、嘉義中海拔山區栽培，因日夜溫差大、糖度更高、酸度更明顯，被譽為山地鳳梨。3-5 月為產季。",
+      "season_months": [
+        3,
+        4,
+        5
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "南投山區"
+      ],
+      "varieties": [
+        "金鑽（高山）",
+        "蘋果鳳梨（高山）"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鳳梨酵素",
+        "錳"
+      ],
+      "storage": "未切常溫 3-5 天；切後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "60-120 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "50-100 元/斤",
+          "note": "南投產地"
+        },
+        {
+          "region": "南部",
+          "range": "60-110 元/斤"
+        },
+        {
+          "region": "東部",
+          "range": "60-120 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pineapple_Oahu.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-pineapple-mountain.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pineapple_Oahu.jpg",
+      "wiki_image": "Pineapple_Oahu.jpg"
+    },
+    "pineapple-cayenne": {
+      "id": "pineapple-cayenne",
+      "names": {
+        "zh": "開英鳳梨",
+        "zh_alt": [],
+        "en": null,
+        "scientific": "Ananas comosus"
+      },
+      "wiki_title": "鳳梨",
+      "family": null,
+      "intro": "鳳梨科鳳梨屬的開英品種，是台南關廟最著名的傳統鳳梨品種。果型較小、糖酸比佳、纖維多但風味濃郁。3-6 月為產季，多用於罐頭加工與鮮食。",
+      "season_months": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "season_note": null,
+      "origin_areas": [
+        "台南關廟"
+      ],
+      "varieties": [
+        "開英（Cayenne）"
+      ],
+      "nutrition": [
+        "維生素 C",
+        "鳳梨酵素",
+        "膳食纖維"
+      ],
+      "storage": "未切常溫 3-5 天；切後冷藏 2-3 天內食用。",
+      "prices": [
+        {
+          "region": "北部",
+          "range": "30-60 元/斤"
+        },
+        {
+          "region": "中部",
+          "range": "25-50 元/斤"
+        },
+        {
+          "region": "南部",
+          "range": "20-45 元/斤",
+          "note": "關廟產地"
+        },
+        {
+          "region": "東部",
+          "range": "30-55 元/斤"
+        }
+      ],
+      "cover": {
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pineapple_Oahu.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-pineapple-cayenne.jpg"
+      },
+      "review_status": "reviewed",
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pineapple_Oahu.jpg",
+      "wiki_image": "Pineapple_Oahu.jpg"
+    }
+  }
+}

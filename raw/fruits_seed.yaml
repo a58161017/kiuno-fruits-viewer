@@ -1,0 +1,754 @@
+# kiuno-fruits-viewer — 水果種子清單
+#
+# 每筆欄位：
+#   id:             ASCII slug，URL/git 友善（必填）
+#   zh:             中文常用名（必填）
+#   wiki:           zh.wikipedia 條目名稱（必填，用於 enrich）
+#   season_months:  產季月份陣列（1-12）；跨年用 [11,12,1,2]；不確定可空陣列
+#   origin_areas:   主要產地（陣列，可空）
+#   zh_alt:         別名（陣列，可空）
+
+fruits:
+  # ===== 熱帶主力（夏季）=====
+  - id: mango
+    zh: 芒果
+    wiki: 芒果
+    season_months: [5, 6, 7, 8]
+    origin_areas: [台南, 屏東, 高雄]
+    zh_alt: [檬果]
+
+  - id: lychee
+    zh: 荔枝
+    wiki: 荔枝
+    season_months: [5, 6, 7]
+    origin_areas: [高雄, 南投, 彰化]
+    zh_alt: [離枝, 丹荔]
+
+  - id: longan
+    zh: 龍眼
+    wiki: 龍眼
+    season_months: [7, 8, 9]
+    origin_areas: [台南, 高雄, 南投]
+    zh_alt: [桂圓]
+
+  - id: pineapple
+    zh: 鳳梨
+    wiki: 鳳梨
+    season_months: [3, 4, 5, 6, 7]
+    origin_areas: [台南, 屏東, 嘉義]
+    zh_alt: [菠蘿]
+
+  - id: banana
+    zh: 香蕉
+    wiki: 香蕉
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [南投, 高雄, 屏東, 台中]
+
+  - id: watermelon
+    zh: 西瓜
+    wiki: 西瓜
+    season_months: [5, 6, 7, 8, 9]
+    origin_areas: [雲林, 嘉義, 花蓮]
+
+  - id: papaya
+    zh: 木瓜
+    wiki: 木瓜
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [台南, 屏東, 高雄]
+
+  - id: dragon-fruit
+    zh: 火龍果
+    wiki: 火龍果
+    season_months: [6, 7, 8, 9, 10, 11]
+    origin_areas: [彰化, 南投, 屏東]
+    zh_alt: [紅龍果, 仙人果]
+
+  - id: passion-fruit
+    zh: 百香果
+    wiki: 西番蓮
+    season_months: [7, 8, 9, 10, 11]
+    origin_areas: [南投, 花蓮, 嘉義]
+    zh_alt: [西番蓮, 雞蛋果]
+
+  - id: guava
+    zh: 芭樂
+    wiki: 番石榴
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [高雄, 彰化, 台南]
+    zh_alt: [番石榴, 拔仔]
+
+  - id: wax-apple
+    zh: 蓮霧
+    wiki: 蓮霧
+    season_months: [12, 1, 2, 3, 4, 5]
+    origin_areas: [屏東, 高雄, 宜蘭]
+    zh_alt: [天桃, 紫蒲桃]
+
+  - id: starfruit
+    zh: 楊桃
+    wiki: 陽桃
+    season_months: [9, 10, 11, 12, 1, 2]
+    origin_areas: [台南, 苗栗, 彰化]
+    zh_alt: [陽桃, 五歛子]
+
+  - id: sugar-apple
+    zh: 釋迦
+    wiki: 番荔枝
+    season_months: [9, 10, 11, 12, 1, 2, 3]
+    origin_areas: [台東]
+    zh_alt: [番荔枝, 佛頭果]
+
+  - id: atemoya
+    zh: 鳳梨釋迦
+    wiki: 鳳梨釋迦
+    season_months: [11, 12, 1, 2, 3]
+    origin_areas: [台東]
+
+  - id: durian
+    zh: 榴槤
+    wiki: 榴槤
+    season_months: [5, 6, 7, 8]
+    origin_areas: [屏東]
+
+  - id: jackfruit
+    zh: 波羅蜜
+    wiki: 波羅蜜
+    season_months: [5, 6, 7, 8, 9, 10]
+    origin_areas: [屏東, 嘉義]
+    zh_alt: [菠蘿蜜]
+
+  - id: avocado
+    zh: 酪梨
+    wiki: 鱷梨
+    season_months: [7, 8, 9, 10, 11, 12]
+    origin_areas: [台南, 嘉義]
+    zh_alt: [鱷梨, 牛油果]
+
+  # ===== 柑橘類 =====
+  - id: ponkan
+    zh: 椪柑
+    wiki: 椪柑
+    season_months: [11, 12, 1]
+    origin_areas: [雲林, 嘉義, 苗栗]
+
+  - id: tangerine
+    zh: 桶柑
+    wiki: 桶柑
+    season_months: [1, 2, 3]
+    origin_areas: [新竹, 苗栗, 台中]
+    zh_alt: [年柑]
+
+  - id: orange
+    zh: 柳橙
+    wiki: 甜橙
+    season_months: [11, 12, 1]
+    origin_areas: [雲林, 嘉義]
+    zh_alt: [柳丁, 甜橙]
+
+  - id: pomelo
+    zh: 文旦
+    wiki: 文旦
+    season_months: [9, 10]
+    origin_areas: [台南麻豆, 花蓮鶴岡, 苗栗西湖]
+    zh_alt: [柚子, 麻豆文旦]
+
+  - id: grapefruit
+    zh: 葡萄柚
+    wiki: 葡萄柚
+    season_months: [10, 11, 12]
+    origin_areas: [花蓮, 雲林]
+
+  - id: lemon
+    zh: 檸檬
+    wiki: 檸檬
+    season_months: [6, 7, 8, 9, 10]
+    origin_areas: [屏東, 高雄]
+
+  - id: kumquat
+    zh: 金桔
+    wiki: 金柑
+    season_months: [11, 12, 1, 2]
+    origin_areas: [宜蘭]
+    zh_alt: [金柑, 金棗]
+
+  - id: tankan
+    zh: 茂谷柑
+    wiki: 茂谷柑
+    season_months: [12, 1, 2]
+    origin_areas: [雲林, 嘉義, 台中]
+
+  - id: murcott
+    zh: 桶柑椪柑
+    wiki: 茂谷柑
+    season_months: [12, 1, 2]
+    origin_areas: [雲林]
+    zh_alt: [Murcott]
+
+  - id: bitter-orange
+    zh: 酸橘
+    wiki: 苦橙
+    season_months: [10, 11, 12, 1]
+    origin_areas: [全台]
+    zh_alt: [苦橙]
+
+  # ===== 溫帶水果（高山）=====
+  - id: apple
+    zh: 蘋果
+    wiki: 蘋果
+    season_months: [9, 10, 11]
+    origin_areas: [梨山, 武陵農場, 福壽山]
+
+  - id: pear-japanese
+    zh: 高接梨
+    wiki: 沙梨
+    season_months: [6, 7, 8]
+    origin_areas: [台中, 苗栗, 卓蘭]
+    zh_alt: [新興梨, 豐水梨]
+
+  - id: pear-asian
+    zh: 水梨
+    wiki: 沙梨
+    season_months: [7, 8, 9]
+    origin_areas: [梨山, 福壽山]
+
+  - id: persimmon
+    zh: 柿子
+    wiki: 柿
+    season_months: [9, 10, 11, 12]
+    origin_areas: [新竹, 苗栗, 嘉義番路]
+
+  - id: persimmon-dried
+    zh: 柿餅
+    wiki: 柿餅
+    season_months: [10, 11, 12]
+    origin_areas: [新竹新埔, 北埔]
+
+  - id: peach-mountain
+    zh: 水蜜桃
+    wiki: 桃
+    season_months: [5, 6, 7, 8]
+    origin_areas: [拉拉山, 梨山, 福壽山, 阿里山]
+
+  - id: plum-mei
+    zh: 青梅
+    wiki: 梅
+    season_months: [3, 4]
+    origin_areas: [南投信義, 南投水里]
+
+  - id: plum
+    zh: 李子
+    wiki: 李
+    season_months: [4, 5, 6]
+    origin_areas: [桃園, 新竹, 苗栗, 南投]
+    zh_alt: [李, 紅肉李, 加州李]
+
+  - id: apricot
+    zh: 杏桃
+    wiki: 杏
+    season_months: [5, 6]
+    origin_areas: [梨山]
+
+  - id: cherry
+    zh: 櫻桃
+    wiki: 櫻桃
+    season_months: [5, 6, 7]
+    origin_areas: [拉拉山, 梨山]
+
+  - id: kiwi
+    zh: 奇異果
+    wiki: 獼猴桃
+    season_months: [10, 11, 12]
+    origin_areas: [南投信義]
+    zh_alt: [奇異果, 獼猴桃]
+
+  - id: grape-kyoho
+    zh: 巨峰葡萄
+    wiki: 葡萄
+    season_months: [6, 7, 12, 1]
+    origin_areas: [彰化, 南投, 苗栗]
+
+  - id: grape-table
+    zh: 葡萄
+    wiki: 葡萄
+    season_months: [6, 7, 8, 11, 12]
+    origin_areas: [彰化, 南投]
+
+  - id: strawberry
+    zh: 草莓
+    wiki: 草莓
+    season_months: [12, 1, 2, 3, 4]
+    origin_areas: [苗栗大湖, 苗栗獅潭]
+
+  # ===== 瓜類 =====
+  - id: melon-honeydew
+    zh: 美濃瓜
+    wiki: 香瓜
+    season_months: [3, 4, 5, 6, 7]
+    origin_areas: [雲林, 台南]
+    zh_alt: [香瓜, 哈密瓜系]
+
+  - id: cantaloupe
+    zh: 哈密瓜
+    wiki: 甜瓜
+    season_months: [5, 6, 7, 8, 9, 10]
+    origin_areas: [雲林, 嘉義, 台南]
+
+  - id: melon-network
+    zh: 網紋洋香瓜
+    wiki: 甜瓜
+    season_months: [5, 6, 7, 8, 9, 10, 11]
+    origin_areas: [雲林二崙]
+
+  - id: watermelon-yellow
+    zh: 黃肉小玉西瓜
+    wiki: 西瓜
+    season_months: [5, 6, 7, 8]
+    origin_areas: [雲林, 嘉義]
+    zh_alt: [小玉西瓜]
+
+  - id: bitter-melon-fruit
+    zh: 山苦瓜
+    wiki: 苦瓜
+    season_months: [5, 6, 7, 8, 9]
+    origin_areas: [花蓮, 台東, 屏東]
+
+  # ===== 莓果與小型水果 =====
+  - id: mulberry
+    zh: 桑椹
+    wiki: 桑
+    season_months: [3, 4, 5]
+    origin_areas: [全台]
+    zh_alt: [桑葚]
+
+  - id: raspberry
+    zh: 樹莓
+    wiki: 懸鉤子屬
+    season_months: [4, 5, 6, 11, 12]
+    origin_areas: [山區零星]
+
+  - id: blueberry
+    zh: 藍莓
+    wiki: 越橘
+    season_months: [5, 6, 7]
+    origin_areas: [南投, 嘉義]
+
+  - id: chinese-bayberry
+    zh: 楊梅
+    wiki: 楊梅
+    season_months: [5, 6]
+    origin_areas: [桃園, 新竹]
+
+  - id: indian-jujube
+    zh: 印度棗
+    wiki: 滇刺棗
+    season_months: [12, 1, 2, 3]
+    origin_areas: [高雄, 屏東]
+    zh_alt: [蜜棗, 牛奶棗]
+
+  - id: chinese-jujube
+    zh: 紅棗
+    wiki: 棗
+    season_months: [7, 8, 9]
+    origin_areas: [苗栗公館]
+
+  - id: olive-fruit
+    zh: 橄欖
+    wiki: 橄欖屬
+    season_months: [10, 11, 12]
+    origin_areas: [台南, 苗栗]
+
+  - id: prickly-pear
+    zh: 仙人掌果
+    wiki: 仙人掌
+    season_months: [6, 7, 8, 9]
+    origin_areas: [澎湖]
+    zh_alt: [澎湖仙人掌]
+
+  # ===== 其他熱帶 / 進口 =====
+  - id: rambutan
+    zh: 紅毛丹
+    wiki: 紅毛丹
+    season_months: [7, 8, 9]
+    origin_areas: [屏東, 嘉義]
+
+  - id: mangosteen
+    zh: 山竹
+    wiki: 莽吉柿
+    season_months: [6, 7, 8]
+    origin_areas: [屏東]
+    zh_alt: [莽吉柿]
+
+  - id: longan-dragon
+    zh: 龍宮果
+    wiki: 龍貢
+    season_months: [8, 9, 10]
+    origin_areas: [屏東]
+
+  - id: noni
+    zh: 諾麗果
+    wiki: 海濱木巴戟
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [蘭嶼, 綠島]
+
+  - id: cherimoya
+    zh: 冷子番荔枝
+    wiki: 番荔枝屬
+    season_months: [11, 12, 1]
+    origin_areas: [台東]
+
+  - id: white-sapote
+    zh: 香肉果
+    wiki: 香肉果
+    season_months: [6, 7, 8, 9]
+    origin_areas: [南部零星]
+    zh_alt: [白柿, 卡撒巴]
+
+  - id: black-sapote
+    zh: 黑柿
+    wiki: 黑柿
+    season_months: [10, 11, 12, 1]
+    origin_areas: [南部零星]
+    zh_alt: [巧克力布丁果]
+
+  - id: sapodilla
+    zh: 人心果
+    wiki: 人心果
+    season_months: [3, 4, 5, 9, 10, 11]
+    origin_areas: [南部]
+
+  - id: jaboticaba
+    zh: 嘉寶果
+    wiki: 嘉寶果
+    season_months: [3, 4, 5, 9, 10]
+    origin_areas: [全台]
+    zh_alt: [樹葡萄]
+
+  - id: tamarillo
+    zh: 樹番茄
+    wiki: 樹番茄
+    season_months: [10, 11, 12, 1, 2, 3]
+    origin_areas: [南投, 嘉義]
+    zh_alt: [紅茄]
+
+  - id: feijoa
+    zh: 鳳梨芭樂
+    wiki: 費約果
+    season_months: [10, 11, 12]
+    origin_areas: [中海拔山區零星]
+    zh_alt: [費約果]
+
+  - id: cacao
+    zh: 可可
+    wiki: 可可樹
+    season_months: [4, 5, 6, 7, 8, 9, 10, 11]
+    origin_areas: [屏東]
+
+  - id: coconut
+    zh: 椰子
+    wiki: 椰子
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [屏東, 台南]
+
+  - id: betel-nut
+    zh: 檳榔
+    wiki: 檳榔
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [南投, 嘉義, 屏東]
+
+  # ===== 番茄類 =====
+  - id: tomato-cherry
+    zh: 小番茄
+    wiki: 番茄
+    season_months: [11, 12, 1, 2, 3, 4]
+    origin_areas: [雲林, 嘉義, 台南]
+    zh_alt: [聖女番茄, 玉女番茄]
+
+  - id: tomato-beef
+    zh: 牛番茄
+    wiki: 番茄
+    season_months: [11, 12, 1, 2, 3, 4, 5]
+    origin_areas: [台中, 雲林]
+
+  # ===== 野果與台灣原生 =====
+  - id: bird-cherry
+    zh: 山桑椹
+    wiki: 桑
+    season_months: [3, 4, 5]
+    origin_areas: [低海拔山區]
+
+  - id: native-strawberry
+    zh: 蛇莓
+    wiki: 蛇莓
+    season_months: [4, 5, 6, 7]
+    origin_areas: [全台山區]
+
+  - id: rubus-formosanus
+    zh: 台灣懸鉤子
+    wiki: 台灣懸鉤子
+    season_months: [5, 6, 7]
+    origin_areas: [中海拔山區]
+
+  - id: aizoaceae
+    zh: 馬齒莧果
+    wiki: 馬齒莧
+    season_months: [6, 7, 8, 9]
+    origin_areas: [全台]
+
+  - id: chinese-olive
+    zh: 牛心橄欖
+    wiki: 橄欖
+    season_months: [10, 11, 12]
+    origin_areas: [南投, 苗栗]
+
+  - id: strawberry-pear
+    zh: 草莓梨
+    wiki: 量天尺屬
+    season_months: [7, 8, 9]
+    origin_areas: [南部零星]
+
+  - id: jiang-bing
+    zh: 薑黃果
+    wiki: 薑黃
+    season_months: [10, 11, 12]
+    origin_areas: [南部]
+    zh_alt: [薑黃]
+
+  - id: jujube-wild
+    zh: 山棗
+    wiki: 棗屬
+    season_months: [9, 10]
+    origin_areas: [低海拔山區]
+
+  - id: monstera-fruit
+    zh: 龜背芋果
+    wiki: 龜背芋
+    season_months: [4, 5, 6, 7, 8, 9, 10]
+    origin_areas: [溫室零星]
+
+  - id: surinam-cherry
+    zh: 蘇利南櫻桃
+    wiki: 巴西櫻桃
+    season_months: [4, 5, 11]
+    origin_areas: [南部零星]
+    zh_alt: [巴西櫻桃, 七彩櫻桃]
+
+  - id: miracle-fruit
+    zh: 神秘果
+    wiki: 神秘果
+    season_months: [5, 6, 7, 8, 9, 10]
+    origin_areas: [南部零星]
+
+  - id: barbados-cherry
+    zh: 西印度櫻桃
+    wiki: 西印度櫻桃
+    season_months: [5, 6, 7, 8, 9, 10]
+    origin_areas: [南部零星]
+
+  - id: jambolan
+    zh: 蒲桃
+    wiki: 蒲桃
+    season_months: [5, 6, 7]
+    origin_areas: [全台零星]
+
+  - id: java-apple
+    zh: 香蓮霧
+    wiki: 蓮霧
+    season_months: [4, 5, 6]
+    origin_areas: [屏東]
+
+  # ===== 進口或少見品種 =====
+  - id: salak
+    zh: 蛇皮果
+    wiki: 蛇皮果
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [進口]
+
+  - id: pomegranate
+    zh: 石榴
+    wiki: 石榴
+    season_months: [9, 10, 11]
+    origin_areas: [中南部零星]
+
+  - id: fig
+    zh: 無花果
+    wiki: 無花果
+    season_months: [6, 7, 8, 9, 10]
+    origin_areas: [桃園, 苗栗, 嘉義]
+
+  - id: ugni
+    zh: 智利桃金孃
+    wiki: 桃金孃科
+    season_months: [10, 11]
+    origin_areas: [山區零星]
+
+  - id: yangmei-red
+    zh: 紅楊梅
+    wiki: 楊梅
+    season_months: [4, 5, 6]
+    origin_areas: [桃園, 新竹]
+
+  # ===== 加工型水果 =====
+  - id: prune
+    zh: 黑棗乾
+    wiki: 西梅
+    season_months: [9, 10]
+    origin_areas: [進口為主]
+    zh_alt: [西梅]
+
+  - id: fig-dried
+    zh: 無花果乾
+    wiki: 無花果
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [全年加工]
+
+  # ===== 較少見補齊 =====
+  - id: bilimbi
+    zh: 三斂
+    wiki: 三斂
+    season_months: [3, 4, 5, 6, 7, 8, 9, 10]
+    origin_areas: [南部零星]
+
+  - id: longkong
+    zh: 龍宮果
+    wiki: 龍貢
+    season_months: [8, 9, 10]
+    origin_areas: [進口]
+
+  - id: snake-fruit
+    zh: 沙梨果
+    wiki: 沙梨
+    season_months: [9, 10]
+    origin_areas: [中海拔山區]
+
+  - id: kiwi-golden
+    zh: 黃金奇異果
+    wiki: 獼猴桃
+    season_months: [9, 10, 11]
+    origin_areas: [進口為主]
+
+  - id: cranberry
+    zh: 蔓越莓
+    wiki: 蔓越莓
+    season_months: [10, 11, 12]
+    origin_areas: [進口為主]
+
+  - id: blackberry
+    zh: 黑莓
+    wiki: 黑莓
+    season_months: [6, 7, 8]
+    origin_areas: [進口為主]
+
+  - id: redcurrant
+    zh: 紅醋栗
+    wiki: 醋栗
+    season_months: [6, 7]
+    origin_areas: [進口]
+
+  - id: gooseberry
+    zh: 醋栗
+    wiki: 醋栗
+    season_months: [6, 7, 8]
+    origin_areas: [進口]
+
+  - id: persimmon-fuyu
+    zh: 富有甜柿
+    wiki: 柿
+    season_months: [10, 11, 12]
+    origin_areas: [台中, 嘉義]
+
+  - id: persimmon-jiro
+    zh: 次郎甜柿
+    wiki: 柿
+    season_months: [10, 11]
+    origin_areas: [台中和平]
+
+  - id: pear-snow
+    zh: 雪梨
+    wiki: 沙梨
+    season_months: [8, 9, 10]
+    origin_areas: [梨山]
+
+  - id: pear-shingo
+    zh: 新興梨
+    wiki: 沙梨
+    season_months: [8, 9]
+    origin_areas: [台中, 苗栗]
+
+  - id: lime
+    zh: 萊姆
+    wiki: 萊姆
+    season_months: [6, 7, 8, 9]
+    origin_areas: [屏東]
+
+  - id: kalamansi
+    zh: 四季桔
+    wiki: 四季橘
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [全台]
+
+  - id: white-guava
+    zh: 白心芭樂
+    wiki: 番石榴
+    season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    origin_areas: [高雄, 彰化]
+
+  - id: red-guava
+    zh: 紅心芭樂
+    wiki: 番石榴
+    season_months: [6, 7, 8, 9, 10, 11]
+    origin_areas: [南投, 高雄]
+
+  - id: kasturi-mango
+    zh: 土芒果
+    wiki: 芒果
+    season_months: [4, 5, 6]
+    origin_areas: [台南, 屏東]
+
+  - id: irwin-mango
+    zh: 愛文芒果
+    wiki: 芒果
+    season_months: [5, 6, 7]
+    origin_areas: [台南玉井, 屏東]
+
+  - id: keitt-mango
+    zh: 凱特芒果
+    wiki: 芒果
+    season_months: [7, 8, 9]
+    origin_areas: [台南, 屏東]
+
+  - id: golden-mango
+    zh: 金煌芒果
+    wiki: 芒果
+    season_months: [6, 7, 8]
+    origin_areas: [台南, 高雄]
+
+  - id: sanrengo-pomelo
+    zh: 西施柚
+    wiki: 文旦
+    season_months: [9, 10]
+    origin_areas: [雲林, 苗栗]
+
+  - id: red-pomelo
+    zh: 紅柚
+    wiki: 文旦
+    season_months: [9, 10, 11]
+    origin_areas: [台南, 花蓮]
+    zh_alt: [紅文旦]
+
+  - id: hami-melon
+    zh: 哈密瓜-進口
+    wiki: 甜瓜
+    season_months: [5, 6, 7, 8, 9]
+    origin_areas: [新疆進口為主]
+
+  - id: pineapple-mountain
+    zh: 高山鳳梨
+    wiki: 鳳梨
+    season_months: [3, 4, 5]
+    origin_areas: [南投山區]
+
+  - id: pineapple-cayenne
+    zh: 開英鳳梨
+    wiki: 鳳梨
+    season_months: [3, 4, 5, 6]
+    origin_areas: [台南關廟]

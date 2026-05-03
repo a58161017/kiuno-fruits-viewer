@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#fff8ec" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1a1810" media="(prefers-color-scheme: dark)">
+<title>kiuno 水果圖鑑</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🍎%3C/text%3E%3C/svg%3E">
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.5/dist/cdn.min.js" defer></script>
+</head>
+<body x-data="viewer()" x-cloak x-init="init()">
+
+<header class="header">
+  <div class="header__row1">
+    <div class="header__title">🍎 kiuno 水果圖鑑<small>台灣水果</small></div>
+    <div class="search">
+      <input
+        type="search"
+        placeholder="搜尋水果名、品種、產地、營養…"
+        x-model.debounce.150ms="query"
+        aria-label="搜尋"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false">
+    </div>
+  </div>
+  <div class="header__row2" role="tablist" aria-label="月份過濾">
+    <button
+      class="month-chip month-chip--season"
+      :class="{ 'month-chip--active': monthFilter === 'season' }"
+      :aria-pressed="monthFilter === 'season'"
+      @click="setFilter('season')">
+      <span x-text="`當季 (${month}月)`"></span>
+    </button>
+    <button
+      class="month-chip"
+      :class="{ 'month-chip--active': monthFilter === 'all' }"
+      :aria-pressed="monthFilter === 'all'"
+      @click="setFilter('all')">全部</button>
+    <template x-for="m in 12" :key="m">
+      <button
+        class="month-chip"
+        :class="{ 'month-chip--active': monthFilter === m, 'month-chip--current': m === month && monthFilter !== m }"
+        :aria-pressed="monthFilter === m"
+        @click="setFilter(m)"
+        x-text="`${m}月`"></button>
+    </template>
+    <span class="count" x-text="`${filtered.length} 種`"></span>
+  </div>
+</header>
+
+<main class="cards" :class="{ 'cards--no-detail': !selected }">
+  <template x-for="f in filtered" :key="f.id">
+    <button class="card" @click="select(f)">
+      <template x-if="f.cover && f.cover.local">
+        <img class="card__cover" :src="f.cover.local" :alt="f.names.zh" loading="lazy" decoding="async">
+      </template>
+      <template x-if="!f.cover || !f.cover.local">
+        <div class="card__cover card__cover--placeholder">🍎</div>
+      </template>
+      <span class="badge-season" x-show="isInSeason(f)">正盛產</span>
+      <div class="card__body">
+        <h3 class="card__name" x-text="f.names.zh"></h3>
+        <div class="card__meta">
+          <span x-text="formatMonths(f.season_months)"></span>
+        </div>
+      </div>
+    </button>
+  </template>
+  <div class="empty" x-show="filtered.length === 0">
+    <p x-show="query">找不到符合「<span x-text="query"></span>」的水果</p>
+    <p x-show="!query">這個月份沒有當季水果</p>
+  </div>
+</main>
+
+<!-- Detail drawer -->
+<div class="drawer-backdrop" :class="{ open: !!selected }" @click="close()"></div>
+<aside class="drawer" :class="{ open: !!selected }" role="dialog" aria-modal="true" :aria-label="selected ? selected.names.zh : ''">
+  <div class="drawer__handle" @click="close()"></div>
+  <button class="drawer__close" @click="close()" aria-label="關閉">×</button>
+  <div class="drawer__body" x-show="selected">
+    <template x-if="selected">
+      <div>
+        <template x-if="selected.cover && selected.cover.local">
+          <img class="detail__cover" :src="selected.cover.local" :alt="selected.names.zh">
+        </template>
+        <template x-if="!selected.cover || !selected.cover.local">
+          <div class="detail__cover detail__cover--placeholder">🍎</div>
+        </template>
+
+        <div class="detail__content">
+          <h2 class="detail__name">
+            <span x-text="selected.names.zh"></span>
+            <span class="badge-season" x-show="isInSeason(selected)">正盛產</span>
+            <span class="draft-flag" x-show="selected.review_status === 'draft' && selected.intro">未審核草稿</span>
+          </h2>
+
+          <p class="detail__alias"
+             x-show="selected.names.zh_alt && selected.names.zh_alt.length"
+             x-text="`別名：${(selected.names.zh_alt||[]).join('、')}`"></p>
+
+          <p class="detail__sci"
+             x-show="selected.names.scientific || selected.names.en"
+             x-html="formatSciAndEn(selected)"></p>
+
+          <div class="detail__section" x-show="selected.intro">
+            <div class="detail__label">介紹</div>
+            <div class="detail__value" x-text="selected.intro"></div>
+          </div>
+
+          <div class="detail__section" x-show="selected.season_months && selected.season_months.length">
+            <div class="detail__label">產季</div>
+            <div class="chips">
+              <template x-for="m in 12">
+                <span
+                  class="chip chip-month"
+                  :class="{ 'chip-month--active': selected.season_months.includes(m) }"
+                  x-text="`${m}月`"></span>
+              </template>
+            </div>
+            <div class="detail__value" x-show="selected.season_note" x-text="selected.season_note" style="margin-top:8px;font-size:13px;color:var(--fg-muted);"></div>
+          </div>
+
+          <div class="detail__section" x-show="selected.origin_areas && selected.origin_areas.length">
+            <div class="detail__label">主要產地</div>
+            <div class="chips">
+              <template x-for="loc in selected.origin_areas">
+                <span class="chip" x-text="loc"></span>
+              </template>
+            </div>
+          </div>
+
+          <div class="detail__section" x-show="selected.varieties && selected.varieties.length">
+            <div class="detail__label">主要品種</div>
+            <div class="chips">
+              <template x-for="v in selected.varieties">
+                <span class="chip chip-variety" x-text="v"></span>
+              </template>
+            </div>
+          </div>
+
+          <div class="detail__section" x-show="selected.prices && selected.prices.length">
+            <div class="detail__label">市場價格（參考）</div>
+            <div class="prices">
+              <template x-for="p in selected.prices" :key="p.region">
+                <div class="price-row">
+                  <span class="price-row__region" x-text="p.region"></span>
+                  <span class="price-row__range" x-text="p.range"></span>
+                  <span class="price-row__note" x-show="p.note" x-text="p.note"></span>
+                </div>
+              </template>
+            </div>
+          </div>
+
+          <div class="detail__section" x-show="selected.nutrition && selected.nutrition.length">
+            <div class="detail__label">營養價值</div>
+            <div class="chips">
+              <template x-for="n in selected.nutrition">
+                <span class="chip chip-nutrition" x-text="n"></span>
+              </template>
+            </div>
+          </div>
+
+          <div class="detail__section" x-show="selected.storage">
+            <div class="detail__label">保存方式</div>
+            <div class="detail__value" x-text="selected.storage"></div>
+          </div>
+
+          <div class="detail__section" x-show="selected.family">
+            <div class="detail__label">科別</div>
+            <div class="detail__value" x-text="selected.family"></div>
+          </div>
+
+          <div class="detail__source">
+            <div x-show="selected.cover && selected.cover.source_url">
+              圖片來源：
+              <a :href="selected.cover.source_url" target="_blank" rel="noopener" x-text="selected.cover.license || selected.cover.source_url"></a>
+            </div>
+            <div x-show="selected.wiki_title">
+              資料參考：
+              <a :href="`https://zh.wikipedia.org/wiki/${encodeURIComponent(selected.wiki_title)}`" target="_blank" rel="noopener">維基百科</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </template>
+  </div>
+</aside>
+
+<script>
+function viewer() {
+  return {
+    all: [],
+    byId: {},
+    fuse: null,
+    query: '',
+    /** 'season' | 'all' | 1..12 */
+    monthFilter: 'season',
+    selected: null,
+    month: (new Date()).getMonth() + 1,
+
+    async init() {
+      // URL ?month= debug lock
+      const url = new URLSearchParams(location.search);
+      const lockMonth = url.get('month');
+      if (lockMonth && /^([1-9]|1[0-2])$/.test(lockMonth)) {
+        this.month = parseInt(lockMonth, 10);
+      } else {
+        // Re-check current month every hour to handle cross-day staying
+        setInterval(() => {
+          this.month = (new Date()).getMonth() + 1;
+        }, 60 * 60 * 1000);
+      }
+
+      // Load data
+      try {
+        const resp = await fetch('data/fruits.json', { cache: 'no-cache' });
+        const db = await resp.json();
+        this.all = Object.values(db.fruits || {})
+          .sort((a, b) => (a.names.zh || '').localeCompare(b.names.zh || '', 'zh-Hant'));
+        this.byId = db.fruits || {};
+      } catch (e) {
+        console.error('failed to load fruits.json', e);
+        this.all = [];
+      }
+
+      // Build search index
+      this.fuse = new Fuse(this.all, {
+        keys: [
+          { name: 'names.zh', weight: 3 },
+          { name: 'names.zh_alt', weight: 2 },
+          { name: 'names.en', weight: 1 },
+          { name: 'names.scientific', weight: 1 },
+          { name: 'family', weight: 1 },
+          { name: 'varieties', weight: 1.5 },
+          { name: 'origin_areas', weight: 1.5 },
+          { name: 'nutrition', weight: 1 },
+          { name: 'intro', weight: 0.5 },
+        ],
+        threshold: 0.35,
+        ignoreLocation: true,
+        minMatchCharLength: 1,
+      });
+
+      // Open detail from URL hash (#id)
+      if (location.hash) {
+        const id = decodeURIComponent(location.hash.slice(1));
+        if (this.byId[id]) {
+          this.selected = this.byId[id];
+        }
+      }
+
+      // Esc to close
+      window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && this.selected) this.close();
+      });
+    },
+
+    isInSeason(f) {
+      return Array.isArray(f.season_months) && f.season_months.includes(this.month);
+    },
+
+    formatMonths(months) {
+      if (!months || !months.length) return '產季未定';
+      const sorted = [...months].sort((a,b)=>a-b);
+      const ranges = [];
+      let start = sorted[0], prev = sorted[0];
+      for (let i = 1; i < sorted.length; i++) {
+        if (sorted[i] === prev + 1) { prev = sorted[i]; continue; }
+        ranges.push(start === prev ? `${start}` : `${start}-${prev}`);
+        start = sorted[i]; prev = sorted[i];
+      }
+      ranges.push(start === prev ? `${start}` : `${start}-${prev}`);
+      return ranges.join('、') + '月';
+    },
+
+    formatSciAndEn(f) {
+      const parts = [];
+      if (f.names.scientific) parts.push(`<i>${f.names.scientific}</i>`);
+      if (f.names.en) parts.push(f.names.en);
+      return parts.join(' · ');
+    },
+
+    get inSeasonCount() {
+      return this.all.filter((f) => this.isInSeason(f)).length;
+    },
+
+    get filtered() {
+      let pool = this.all;
+      if (this.monthFilter === 'season') {
+        pool = pool.filter((f) => (f.season_months || []).includes(this.month));
+      } else if (typeof this.monthFilter === 'number') {
+        pool = pool.filter((f) => (f.season_months || []).includes(this.monthFilter));
+      }
+      const q = this.query.trim();
+      if (q && this.fuse) {
+        const ids = new Set(this.fuse.search(q).map((r) => r.item.id));
+        pool = pool.filter((f) => ids.has(f.id));
+      }
+      return pool;
+    },
+
+    setFilter(v) {
+      this.monthFilter = v;
+      this.$nextTick(() => {
+        const row = document.querySelector('.header__row2');
+        const active = row && row.querySelector('.month-chip--active');
+        if (active && active.scrollIntoView) {
+          active.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        }
+      });
+    },
+
+    select(f) {
+      this.selected = f;
+      history.replaceState(null, '', '#' + encodeURIComponent(f.id));
+      this.$nextTick(() => {
+        const body = document.querySelector('.drawer__body');
+        if (body) body.scrollTop = 0;
+      });
+    },
+
+    close() {
+      this.selected = null;
+      history.replaceState(null, '', location.pathname + location.search);
+    },
+  };
+}
+</script>
+
+</body>
+</html>
