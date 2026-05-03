@@ -52,7 +52,7 @@ fruits:
 
   - id: papaya
     zh: 木瓜
-    wiki: 木瓜
+    wiki: 番木瓜
     season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     origin_areas: [台南, 屏東, 高雄]
 
@@ -173,13 +173,13 @@ fruits:
 
   - id: tankan
     zh: 茂谷柑
-    wiki: 茂谷柑
+    wiki: 蜜柑
     season_months: [12, 1, 2]
     origin_areas: [雲林, 嘉義, 台中]
 
   - id: murcott
     zh: 桶柑椪柑
-    wiki: 茂谷柑
+    wiki: 蜜柑
     season_months: [12, 1, 2]
     origin_areas: [雲林]
     zh_alt: [Murcott]
@@ -237,7 +237,7 @@ fruits:
 
   - id: plum
     zh: 李子
-    wiki: 李
+    wiki: 中國李
     season_months: [4, 5, 6]
     origin_areas: [桃園, 新竹, 苗栗, 南投]
     zh_alt: [李, 紅肉李, 加州李]
@@ -315,7 +315,7 @@ fruits:
   # ===== 莓果與小型水果 =====
   - id: mulberry
     zh: 桑椹
-    wiki: 桑
+    wiki: 桑椹
     season_months: [3, 4, 5]
     origin_areas: [全台]
     zh_alt: [桑葚]
@@ -340,7 +340,7 @@ fruits:
 
   - id: indian-jujube
     zh: 印度棗
-    wiki: 滇刺棗
+    wiki: 印度棗
     season_months: [12, 1, 2, 3]
     origin_areas: [高雄, 屏東]
     zh_alt: [蜜棗, 牛奶棗]
@@ -386,7 +386,7 @@ fruits:
 
   - id: noni
     zh: 諾麗果
-    wiki: 海濱木巴戟
+    wiki: 檄樹
     season_months: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     origin_areas: [蘭嶼, 綠島]
 
@@ -472,7 +472,7 @@ fruits:
   # ===== 野果與台灣原生 =====
   - id: bird-cherry
     zh: 山桑椹
-    wiki: 桑
+    wiki: 桑樹
     season_months: [3, 4, 5]
     origin_areas: [低海拔山區]
 
@@ -496,7 +496,7 @@ fruits:
 
   - id: chinese-olive
     zh: 牛心橄欖
-    wiki: 橄欖
+    wiki: 青橄欖
     season_months: [10, 11, 12]
     origin_areas: [南投, 苗栗]
 
@@ -590,7 +590,7 @@ fruits:
   # ===== 加工型水果 =====
   - id: prune
     zh: 黑棗乾
-    wiki: 西梅
+    wiki: 歐洲李
     season_months: [9, 10]
     origin_areas: [進口為主]
     zh_alt: [西梅]

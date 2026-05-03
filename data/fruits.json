@@ -68,9 +68,7 @@
         "local": "data/covers/fruit-mango.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
-      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+      "updated_at": "2026-05-03"
     },
     "lychee": {
       "id": "lychee",
@@ -135,9 +133,7 @@
         "local": "data/covers/fruit-lychee.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Litchi_chinensis_Luc_Viatour.jpg",
-      "wiki_image": "Litchi_chinensis_Luc_Viatour.jpg"
+      "updated_at": "2026-05-03"
     },
     "longan": {
       "id": "longan",
@@ -199,9 +195,7 @@
         "local": "data/covers/fruit-longan.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dimocarpus_longan_fruits.jpg",
-      "wiki_image": "Dimocarpus_longan_fruits.jpg"
+      "updated_at": "2026-05-03"
     },
     "pineapple": {
       "id": "pineapple",
@@ -268,9 +262,7 @@
         "local": "data/covers/fruit-pineapple.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pineapple_Oahu.jpg",
-      "wiki_image": "Pineapple_Oahu.jpg"
+      "updated_at": "2026-05-03"
     },
     "banana": {
       "id": "banana",
@@ -343,9 +335,7 @@
         "local": "data/covers/fruit-banana.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2018_06_TropicalIslands_IMG_2170.jpg",
-      "wiki_image": "2018_06_TropicalIslands_IMG_2170.jpg"
+      "updated_at": "2026-05-03"
     },
     "watermelon": {
       "id": "watermelon",
@@ -410,9 +400,7 @@
         "local": "data/covers/fruit-watermelon.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg",
-      "wiki_image": "Watermelon-garden.jpg"
+      "updated_at": "2026-05-03"
     },
     "papaya": {
       "id": "papaya",
@@ -422,7 +410,7 @@
         "en": null,
         "scientific": null
       },
-      "wiki_title": "木瓜",
+      "wiki_title": "番木瓜",
       "family": "蔷薇科",
       "intro": "番木瓜科番木瓜屬的常綠小喬木果實。橙黃色果肉柔軟，中央有大量黑色種子。台灣全年皆有產，台南、屏東為主產區。木瓜酵素可助蛋白質消化，是台灣餐桌常見水果。",
       "season_months": [
@@ -478,12 +466,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:Carica_papaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-028.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-papaya.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Carica_papaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-028.jpg",
+      "wiki_image": "Carica_papaya_-_Köhler–s_Medizinal-Pflanzen-028.jpg"
     },
     "dragon-fruit": {
       "id": "dragon-fruit",
@@ -550,9 +540,7 @@
         "local": "data/covers/fruit-dragon-fruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pitaya_cross_section_ed2.jpg",
-      "wiki_image": "Pitaya_cross_section_ed2.jpg"
+      "updated_at": "2026-05-03"
     },
     "passion-fruit": {
       "id": "passion-fruit",
@@ -618,9 +606,7 @@
         "local": "data/covers/fruit-passion-fruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Passiflora_edulis_forma_flavicarpa.jpg",
-      "wiki_image": "Passiflora_edulis_forma_flavicarpa.jpg"
+      "updated_at": "2026-05-03"
     },
     "guava": {
       "id": "guava",
@@ -695,9 +681,7 @@
         "local": "data/covers/fruit-guava.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Psidium_guajava_fruit.jpg",
-      "wiki_image": "Psidium_guajava_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "wax-apple": {
       "id": "wax-apple",
@@ -765,9 +749,7 @@
         "local": "data/covers/fruit-wax-apple.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lainwu_%28Wax_apple%29_WP_001223.jpg",
-      "wiki_image": "Lainwu_(Wax_apple)_WP_001223.jpg"
+      "updated_at": "2026-05-03"
     },
     "starfruit": {
       "id": "starfruit",
@@ -833,9 +815,7 @@
         "local": "data/covers/fruit-starfruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/3840px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
-      "wiki_image": "Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg"
+      "updated_at": "2026-05-03"
     },
     "sugar-apple": {
       "id": "sugar-apple",
@@ -899,9 +879,7 @@
         "local": "data/covers/fruit-sugar-apple.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Annona_squamosa_fruit.jpg/3840px-Annona_squamosa_fruit.jpg",
-      "wiki_image": "Annona_squamosa_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "atemoya": {
       "id": "atemoya",
@@ -962,9 +940,7 @@
         "local": "data/covers/fruit-atemoya.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Atemola_%28cross_of_Annona_cherimola_and_Annona_squamosa%29.jpg",
-      "wiki_image": "Atemola_(cross_of_Annona_cherimola_and_Annona_squamosa).jpg"
+      "updated_at": "2026-05-03"
     },
     "durian": {
       "id": "durian",
@@ -1025,9 +1001,7 @@
         "local": "data/covers/fruit-durian.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Durio_Zibethinus_Van_Nooten.jpg",
-      "wiki_image": "Durio_Zibethinus_Van_Nooten.jpg"
+      "updated_at": "2026-05-03"
     },
     "jackfruit": {
       "id": "jackfruit",
@@ -1092,9 +1066,7 @@
         "local": "data/covers/fruit-jackfruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jackfruit_Bangladesh_%283%29.JPG",
-      "wiki_image": "Jackfruit_Bangladesh_(3).JPG"
+      "updated_at": "2026-05-03"
     },
     "avocado": {
       "id": "avocado",
@@ -1161,9 +1133,7 @@
         "local": "data/covers/fruit-avocado.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Persea_americana_fruit_2.JPG",
-      "wiki_image": "Persea_americana_fruit_2.JPG"
+      "updated_at": "2026-05-03"
     },
     "ponkan": {
       "id": "ponkan",
@@ -1222,9 +1192,7 @@
         "local": "data/covers/fruit-ponkan.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mandariner_Citrus_deliciosa.jpg",
-      "wiki_image": "Mandariner_Citrus_deliciosa.jpg"
+      "updated_at": "2026-05-03"
     },
     "tangerine": {
       "id": "tangerine",
@@ -1285,9 +1253,7 @@
         "local": "data/covers/fruit-tangerine.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Citrus_tankan.jpg",
-      "wiki_image": "Citrus_tankan.jpg"
+      "updated_at": "2026-05-03"
     },
     "orange": {
       "id": "orange",
@@ -1350,9 +1316,7 @@
         "local": "data/covers/fruit-orange.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/OrangeBloss_wb.jpg",
-      "wiki_image": "OrangeBloss_wb.jpg"
+      "updated_at": "2026-05-03"
     },
     "pomelo": {
       "id": "pomelo",
@@ -1418,9 +1382,7 @@
         "local": "data/covers/fruit-pomelo.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/3840px-Pomelo_fruit.jpg",
-      "wiki_image": "Pomelo_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "grapefruit": {
       "id": "grapefruit",
@@ -1480,9 +1442,7 @@
         "local": "data/covers/fruit-grapefruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grapefruits_-_whole-halved-segments.jpg/3840px-Grapefruits_-_whole-halved-segments.jpg",
-      "wiki_image": "Grapefruits_-_whole-halved-segments.jpg"
+      "updated_at": "2026-05-03"
     },
     "lemon": {
       "id": "lemon",
@@ -1543,9 +1503,7 @@
         "local": "data/covers/fruit-lemon.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Citrus_x_limon_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-041.jpg",
-      "wiki_image": "Citrus_x_limon_-_Köhler–s_Medizinal-Pflanzen-041.jpg"
+      "updated_at": "2026-05-03"
     },
     "kumquat": {
       "id": "kumquat",
@@ -1607,9 +1565,7 @@
         "local": "data/covers/fruit-kumquat.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/A_lemon_plant_%28Citrus_japonica%29%3B_flowering_and_fruiting_stem_Wellcome_V0044760.jpg",
-      "wiki_image": "A_lemon_plant_(Citrus_japonica);_flowering_and_fruiting_stem_Wellcome_V0044760.jpg"
+      "updated_at": "2026-05-03"
     },
     "tankan": {
       "id": "tankan",
@@ -1617,9 +1573,9 @@
         "zh": "茂谷柑",
         "zh_alt": [],
         "en": null,
-        "scientific": null
+        "scientific": "Citrus unshiu"
       },
-      "wiki_title": "茂谷柑",
+      "wiki_title": "蜜柑",
       "family": null,
       "intro": "芸香科柑橘屬的雜交品種（橘 × 橙），果實糖酸比佳、汁多味甜，是中部冬季主力柑橘。雲林古坑、嘉義竹崎、台中東勢為主產區。12 月至隔年 2 月為產季。",
       "season_months": [
@@ -1663,12 +1619,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_unshiu_20101127_c.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-tankan.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Citrus_unshiu_20101127_c.jpg",
+      "wiki_image": "Citrus_unshiu_20101127_c.jpg"
     },
     "murcott": {
       "id": "murcott",
@@ -1678,9 +1636,9 @@
           "Murcott"
         ],
         "en": null,
-        "scientific": null
+        "scientific": "Citrus unshiu"
       },
-      "wiki_title": "茂谷柑",
+      "wiki_title": "蜜柑",
       "family": null,
       "intro": "Murcott 為茂谷柑同一系列的晚熟雜交種，果型較大、糖度更高。雲林、台中為主要產地。產季與茂谷柑接近但稍晚，2-3 月仍可採收。",
       "season_months": [
@@ -1721,12 +1679,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citrus_unshiu_20101127_c.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-murcott.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Citrus_unshiu_20101127_c.jpg",
+      "wiki_image": "Citrus_unshiu_20101127_c.jpg"
     },
     "bitter-orange": {
       "id": "bitter-orange",
@@ -1785,9 +1745,7 @@
         "local": "data/covers/fruit-bitter-orange.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Citrus_aurantium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-042.jpg",
-      "wiki_image": "Citrus_aurantium_-_Köhler–s_Medizinal-Pflanzen-042.jpg"
+      "updated_at": "2026-05-03"
     },
     "apple": {
       "id": "apple",
@@ -1851,9 +1809,7 @@
         "local": "data/covers/fruit-apple.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apples_in_basket_2018_G2.jpg/3840px-Apples_in_basket_2018_G2.jpg",
-      "wiki_image": "Apples_in_basket_2018_G2.jpg"
+      "updated_at": "2026-05-03"
     },
     "pear-japanese": {
       "id": "pear-japanese",
@@ -1918,9 +1874,7 @@
         "local": "data/covers/fruit-pear-japanese.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
-      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+      "updated_at": "2026-05-03"
     },
     "pear-asian": {
       "id": "pear-asian",
@@ -1979,9 +1933,7 @@
         "local": "data/covers/fruit-pear-asian.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
-      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+      "updated_at": "2026-05-03"
     },
     "persimmon": {
       "id": "persimmon",
@@ -2044,9 +1996,7 @@
         "local": "data/covers/fruit-persimmon.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/3840px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
-      "wiki_image": "Fuyu_persimmon_fruits,_one_cut_open.jpg"
+      "updated_at": "2026-05-03"
     },
     "persimmon-dried": {
       "id": "persimmon-dried",
@@ -2105,9 +2055,7 @@
         "local": "data/covers/fruit-persimmon-dried.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%E6%9B%AC%E6%9F%BF%E9%A4%85-%E9%87%91%E6%BC%A2%E6%9F%BF%E9%A4%85_Nov_2018.jpg/3840px-%E6%9B%AC%E6%9F%BF%E9%A4%85-%E9%87%91%E6%BC%A2%E6%9F%BF%E9%A4%85_Nov_2018.jpg",
-      "wiki_image": "曬柿餅-金漢柿餅_Nov_2018.jpg"
+      "updated_at": "2026-05-03"
     },
     "peach-mountain": {
       "id": "peach-mountain",
@@ -2171,9 +2119,7 @@
         "local": "data/covers/fruit-peach-mountain.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nectarine_Fruit_Development.jpg",
-      "wiki_image": "Nectarine_Fruit_Development.jpg"
+      "updated_at": "2026-05-03"
     },
     "plum-mei": {
       "id": "plum-mei",
@@ -2231,9 +2177,7 @@
         "local": "data/covers/fruit-plum-mei.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pink_Prunus_mume_flowers.jpg/3840px-Pink_Prunus_mume_flowers.jpg",
-      "wiki_image": "Pink_Prunus_mume_flowers.jpg"
+      "updated_at": "2026-05-03"
     },
     "plum": {
       "id": "plum",
@@ -2247,7 +2191,7 @@
         "en": null,
         "scientific": null
       },
-      "wiki_title": "李",
+      "wiki_title": "中國李",
       "family": null,
       "intro": "薔薇科李屬的落葉小喬木果實。果肉鮮紅色或黃綠色、酸甜多汁。桃園復興、新竹尖石、苗栗、南投仁愛為主要產區。4-6 月為產季。",
       "season_months": [
@@ -2294,12 +2238,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:3_blood_plums_on_tree.jpg",
+        "license": "GFDL",
+        "local": "data/covers/fruit-plum.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/3_blood_plums_on_tree.jpg",
+      "wiki_image": "3_blood_plums_on_tree.jpg"
     },
     "apricot": {
       "id": "apricot",
@@ -2357,9 +2303,7 @@
         "local": "data/covers/fruit-apricot.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Prunus_armeniaca_Nubra_Valley.jpg",
-      "wiki_image": "Prunus_armeniaca_Nubra_Valley.jpg"
+      "updated_at": "2026-05-03"
     },
     "cherry": {
       "id": "cherry",
@@ -2420,9 +2364,7 @@
         "local": "data/covers/fruit-cherry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Italienische_S%C3%BC%C3%9Fkirschen.JPG",
-      "wiki_image": "Italienische_Süßkirschen.JPG"
+      "updated_at": "2026-05-03"
     },
     "kiwi": {
       "id": "kiwi",
@@ -2483,9 +2425,7 @@
         "local": "data/covers/fruit-kiwi.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/3840px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
-      "wiki_image": "Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg"
+      "updated_at": "2026-05-03"
     },
     "grape-kyoho": {
       "id": "grape-kyoho",
@@ -2546,9 +2486,7 @@
         "local": "data/covers/fruit-grape-kyoho.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Close_up_grapes.jpg",
-      "wiki_image": "Close_up_grapes.jpg"
+      "updated_at": "2026-05-03"
     },
     "grape-table": {
       "id": "grape-table",
@@ -2610,9 +2548,7 @@
         "local": "data/covers/fruit-grape-table.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Close_up_grapes.jpg",
-      "wiki_image": "Close_up_grapes.jpg"
+      "updated_at": "2026-05-03"
     },
     "strawberry": {
       "id": "strawberry",
@@ -2675,9 +2611,7 @@
         "local": "data/covers/fruit-strawberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Strawberry_is_a_fruit_instead_of_love_%286%29.jpg/1920px-Strawberry_is_a_fruit_instead_of_love_%286%29.jpg",
-      "wiki_image": "Strawberry_is_a_fruit_instead_of_love_(6).jpg"
+      "updated_at": "2026-05-03"
     },
     "melon-honeydew": {
       "id": "melon-honeydew",
@@ -2741,9 +2675,7 @@
         "local": "data/covers/fruit-melon-honeydew.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Korean_melon-Chamoe-01.jpg",
-      "wiki_image": "Korean_melon-Chamoe-01.jpg"
+      "updated_at": "2026-05-03"
     },
     "cantaloupe": {
       "id": "cantaloupe",
@@ -2806,9 +2738,7 @@
         "local": "data/covers/fruit-cantaloupe.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Muskmelon.jpg",
-      "wiki_image": "Muskmelon.jpg"
+      "updated_at": "2026-05-03"
     },
     "melon-network": {
       "id": "melon-network",
@@ -2873,9 +2803,7 @@
         "local": "data/covers/fruit-melon-network.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Muskmelon.jpg",
-      "wiki_image": "Muskmelon.jpg"
+      "updated_at": "2026-05-03"
     },
     "watermelon-yellow": {
       "id": "watermelon-yellow",
@@ -2936,9 +2864,7 @@
         "local": "data/covers/fruit-watermelon-yellow.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Watermelon-garden.jpg",
-      "wiki_image": "Watermelon-garden.jpg"
+      "updated_at": "2026-05-03"
     },
     "bitter-melon-fruit": {
       "id": "bitter-melon-fruit",
@@ -3002,9 +2928,7 @@
         "local": "data/covers/fruit-bitter-melon-fruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Taiwan_2009_Tainan_City_Organic_Farm_Bitter_Gourd_FRD_7956.jpg",
-      "wiki_image": "Taiwan_2009_Tainan_City_Organic_Farm_Bitter_Gourd_FRD_7956.jpg"
+      "updated_at": "2026-05-03"
     },
     "mulberry": {
       "id": "mulberry",
@@ -3016,7 +2940,7 @@
         "en": null,
         "scientific": null
       },
-      "wiki_title": "桑",
+      "wiki_title": "桑椹",
       "family": null,
       "intro": "桑科桑屬的落葉喬木果實。聚合果由綠轉紅再轉深紫黑色，越熟越甜。全台山區與庭院常見，3-5 月短暫產季。多用於釀酒、果醬、鮮食，染衣不易洗淨。",
       "season_months": [
@@ -3059,12 +2983,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:Morus_alba_fruits_and_leaves.jpg",
+        "license": "CC BY-SA 2.5",
+        "local": "data/covers/fruit-mulberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Morus_alba_fruits_and_leaves.jpg",
+      "wiki_image": "Morus_alba_fruits_and_leaves.jpg"
     },
     "raspberry": {
       "id": "raspberry",
@@ -3124,9 +3050,7 @@
         "local": "data/covers/fruit-raspberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Blackberries_on_bush.jpg",
-      "wiki_image": "Blackberries_on_bush.jpg"
+      "updated_at": "2026-05-03"
     },
     "blueberry": {
       "id": "blueberry",
@@ -3185,9 +3109,7 @@
         "local": "data/covers/fruit-blueberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cowberry.jpg",
-      "wiki_image": "Cowberry.jpg"
+      "updated_at": "2026-05-03"
     },
     "chinese-bayberry": {
       "id": "chinese-bayberry",
@@ -3245,9 +3167,7 @@
         "local": "data/covers/fruit-chinese-bayberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Myrica_rubra5.jpg",
-      "wiki_image": "Myrica_rubra5.jpg"
+      "updated_at": "2026-05-03"
     },
     "indian-jujube": {
       "id": "indian-jujube",
@@ -3258,9 +3178,9 @@
           "牛奶棗"
         ],
         "en": null,
-        "scientific": null
+        "scientific": "Ziziphus mauritiana"
       },
-      "wiki_title": "滇刺棗",
+      "wiki_title": "印度棗",
       "family": null,
       "intro": "鼠李科棗屬的常綠小喬木果實，又稱「蜜棗」「牛奶棗」。橢圓形綠皮果實清脆甜美，是冬季最受歡迎的台灣水果之一。高雄、屏東為主要產區。12 月至隔年 3 月為產季。",
       "season_months": [
@@ -3307,12 +3227,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ziziphus_mauritiana_fruit_2.jpg",
+        "license": "CC BY 3.0",
+        "local": "data/covers/fruit-indian-jujube.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ziziphus_mauritiana_fruit_2.jpg",
+      "wiki_image": "Ziziphus_mauritiana_fruit_2.jpg"
     },
     "chinese-jujube": {
       "id": "chinese-jujube",
@@ -3371,9 +3293,7 @@
         "local": "data/covers/fruit-chinese-jujube.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ziziphus_zizyphus_foliage.jpg",
-      "wiki_image": "Ziziphus_zizyphus_foliage.jpg"
+      "updated_at": "2026-05-03"
     },
     "olive-fruit": {
       "id": "olive-fruit",
@@ -3432,9 +3352,7 @@
         "local": "data/covers/fruit-olive-fruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Canarium_harveyi%2C_leaves%2C_fruits.jpg",
-      "wiki_image": "Canarium_harveyi,_leaves,_fruits.jpg"
+      "updated_at": "2026-05-03"
     },
     "prickly-pear": {
       "id": "prickly-pear",
@@ -3496,9 +3414,7 @@
         "local": "data/covers/fruit-prickly-pear.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pereskia_aculeata4_cropped.jpg",
-      "wiki_image": "Pereskia_aculeata4_cropped.jpg"
+      "updated_at": "2026-05-03"
     },
     "rambutan": {
       "id": "rambutan",
@@ -3556,9 +3472,7 @@
         "local": "data/covers/fruit-rambutan.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ripe_rambutan_fruit_%28Buche%29.jpg/3840px-Ripe_rambutan_fruit_%28Buche%29.jpg",
-      "wiki_image": "Ripe_rambutan_fruit_(Buche).jpg"
+      "updated_at": "2026-05-03"
     },
     "mangosteen": {
       "id": "mangosteen",
@@ -3617,9 +3531,7 @@
         "local": "data/covers/fruit-mangosteen.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fresh_mangosteen_fruit.jpg/3840px-Fresh_mangosteen_fruit.jpg",
-      "wiki_image": "Fresh_mangosteen_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "longan-dragon": {
       "id": "longan-dragon",
@@ -3676,9 +3588,7 @@
         "local": "data/covers/fruit-longan-dragon.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lanzones.jpg",
-      "wiki_image": "Lanzones.jpg"
+      "updated_at": "2026-05-03"
     },
     "noni": {
       "id": "noni",
@@ -3686,9 +3596,9 @@
         "zh": "諾麗果",
         "zh_alt": [],
         "en": null,
-        "scientific": null
+        "scientific": "Morinda citrifolia"
       },
-      "wiki_title": "海濱木巴戟",
+      "wiki_title": "檄樹",
       "family": null,
       "intro": "茜草科檄樹屬的常綠喬木果實。淡黃綠色凹凸不平、氣味強烈，被譽為健康食品但口感不佳。蘭嶼、綠島有原生族群。多製成酵素、果汁飲品。全年可採果。",
       "season_months": [
@@ -3742,12 +3652,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:P_Morc_D1252.JPG",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-noni.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/P_Morc_D1252.JPG",
+      "wiki_image": "P_Morc_D1252.JPG"
     },
     "cherimoya": {
       "id": "cherimoya",
@@ -3805,9 +3717,7 @@
         "local": "data/covers/fruit-cherimoya.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sugar_apple_with_cross_section.jpg",
-      "wiki_image": "Sugar_apple_with_cross_section.jpg"
+      "updated_at": "2026-05-03"
     },
     "white-sapote": {
       "id": "white-sapote",
@@ -3868,9 +3778,7 @@
         "local": "data/covers/fruit-white-sapote.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Casimiroa_edulis.jpg",
-      "wiki_image": "Casimiroa_edulis.jpg"
+      "updated_at": "2026-05-03"
     },
     "black-sapote": {
       "id": "black-sapote",
@@ -3931,9 +3839,7 @@
         "local": "data/covers/fruit-black-sapote.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Diospyros_nigra_Blanco2.372-cropped.jpg",
-      "wiki_image": "Diospyros_nigra_Blanco2.372-cropped.jpg"
+      "updated_at": "2026-05-03"
     },
     "sapodilla": {
       "id": "sapodilla",
@@ -3994,9 +3900,7 @@
         "local": "data/covers/fruit-sapodilla.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sapodilla_tree.jpg",
-      "wiki_image": "Sapodilla_tree.jpg"
+      "updated_at": "2026-05-03"
     },
     "jaboticaba": {
       "id": "jaboticaba",
@@ -4058,9 +3962,7 @@
         "local": "data/covers/fruit-jaboticaba.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jabuticaba_fruto.jpg",
-      "wiki_image": "Jabuticaba_fruto.jpg"
+      "updated_at": "2026-05-03"
     },
     "tamarillo": {
       "id": "tamarillo",
@@ -4124,9 +4026,7 @@
         "local": "data/covers/fruit-tamarillo.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Solanum_betaceum_3zz.jpg",
-      "wiki_image": "Solanum_betaceum_3zz.jpg"
+      "updated_at": "2026-05-03"
     },
     "feijoa": {
       "id": "feijoa",
@@ -4185,9 +4085,7 @@
         "local": "data/covers/fruit-feijoa.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Acca_sellowiana_Fruit_MHNT_Fronton.jpg/3840px-Acca_sellowiana_Fruit_MHNT_Fronton.jpg",
-      "wiki_image": "Acca_sellowiana_Fruit_MHNT_Fronton.jpg"
+      "updated_at": "2026-05-03"
     },
     "cacao": {
       "id": "cacao",
@@ -4251,9 +4149,7 @@
         "local": "data/covers/fruit-cacao.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Theobroma_cacao_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-136.jpg",
-      "wiki_image": "Theobroma_cacao_-_Köhler–s_Medizinal-Pflanzen-136.jpg"
+      "updated_at": "2026-05-03"
     },
     "coconut": {
       "id": "coconut",
@@ -4322,9 +4218,7 @@
         "local": "data/covers/fruit-coconut.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg",
-      "wiki_image": "Cocos_nucifera_-_Köhler–s_Medizinal-Pflanzen-187.jpg"
+      "updated_at": "2026-05-03"
     },
     "betel-nut": {
       "id": "betel-nut",
@@ -4389,9 +4283,7 @@
         "local": "data/covers/fruit-betel-nut.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Beetle_palm_with_nut_bunch.jpg",
-      "wiki_image": "Beetle_palm_with_nut_bunch.jpg"
+      "updated_at": "2026-05-03"
     },
     "tomato-cherry": {
       "id": "tomato-cherry",
@@ -4459,9 +4351,7 @@
         "local": "data/covers/fruit-tomato-cherry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
-      "wiki_image": "Tomato_je.jpg"
+      "updated_at": "2026-05-03"
     },
     "tomato-beef": {
       "id": "tomato-beef",
@@ -4525,9 +4415,7 @@
         "local": "data/covers/fruit-tomato-beef.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
-      "wiki_image": "Tomato_je.jpg"
+      "updated_at": "2026-05-03"
     },
     "bird-cherry": {
       "id": "bird-cherry",
@@ -4537,7 +4425,7 @@
         "en": null,
         "scientific": null
       },
-      "wiki_title": "桑",
+      "wiki_title": "桑樹",
       "family": null,
       "intro": "桑科桑屬的山桑椹野生型，比栽培桑椹較小、酸甜更明顯。低海拔山區常見，3-5 月為產季。常見孩童採食或農家自釀桑椹酒。",
       "season_months": [
@@ -4578,12 +4466,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:MorusAlba.jpg",
+        "license": "CC BY-SA 3.0",
+        "local": "data/covers/fruit-bird-cherry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/MorusAlba.jpg",
+      "wiki_image": "MorusAlba.jpg"
     },
     "native-strawberry": {
       "id": "native-strawberry",
@@ -4638,9 +4528,7 @@
         "local": "data/covers/fruit-native-strawberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Duchesnea_indica9.jpg",
-      "wiki_image": "Duchesnea_indica9.jpg"
+      "updated_at": "2026-05-03"
     },
     "rubus-formosanus": {
       "id": "rubus-formosanus",
@@ -4696,9 +4584,7 @@
         "local": "data/covers/fruit-rubus-formosanus.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/DSC_0246_Rubus_formosensis_Ktze.jpg",
-      "wiki_image": "DSC_0246_Rubus_formosensis_Ktze.jpg"
+      "updated_at": "2026-05-03"
     },
     "aizoaceae": {
       "id": "aizoaceae",
@@ -4756,9 +4642,7 @@
         "local": "data/covers/fruit-aizoaceae.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Portulaca_oleracea_stems.jpg",
-      "wiki_image": "Portulaca_oleracea_stems.jpg"
+      "updated_at": "2026-05-03"
     },
     "chinese-olive": {
       "id": "chinese-olive",
@@ -4768,7 +4652,7 @@
         "en": null,
         "scientific": null
       },
-      "wiki_title": "橄欖",
+      "wiki_title": "青橄欖",
       "family": null,
       "intro": "橄欖科橄欖屬的常綠喬木果實，其中牛心橄欖為大果型品種。果型較圓飽，南投、苗栗有少量栽培。10-12 月為產季。多用於製作蜜餞或藥用。",
       "season_months": [
@@ -4811,12 +4695,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:%E6%A9%84%E6%A6%84%E6%A0%91.jpg",
+        "license": "CC BY-SA 4.0",
+        "local": "data/covers/fruit-chinese-olive.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%E6%A9%84%E6%A6%84%E6%A0%91.jpg",
+      "wiki_image": "橄榄树.jpg"
     },
     "strawberry-pear": {
       "id": "strawberry-pear",
@@ -4873,9 +4759,7 @@
         "local": "data/covers/fruit-strawberry-pear.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hylocereus_undatus_in_bloom_in_Kona.jpg/3840px-Hylocereus_undatus_in_bloom_in_Kona.jpg",
-      "wiki_image": "Hylocereus_undatus_in_bloom_in_Kona.jpg"
+      "updated_at": "2026-05-03"
     },
     "jiang-bing": {
       "id": "jiang-bing",
@@ -4935,9 +4819,7 @@
         "local": "data/covers/fruit-jiang-bing.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Curcuma_longa_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-199.jpg",
-      "wiki_image": "Curcuma_longa_-_Köhler–s_Medizinal-Pflanzen-199.jpg"
+      "updated_at": "2026-05-03"
     },
     "jujube-wild": {
       "id": "jujube-wild",
@@ -4992,9 +4874,7 @@
         "local": "data/covers/fruit-jujube-wild.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/ZiziphusJujubaVarSpinosa.jpg",
-      "wiki_image": "ZiziphusJujubaVarSpinosa.jpg"
+      "updated_at": "2026-05-03"
     },
     "monstera-fruit": {
       "id": "monstera-fruit",
@@ -5052,9 +4932,7 @@
         "local": "data/covers/fruit-monstera-fruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Monstera_deliciosa_neer_Luochi.JPG/3840px-Monstera_deliciosa_neer_Luochi.JPG",
-      "wiki_image": "Monstera_deliciosa_neer_Luochi.JPG"
+      "updated_at": "2026-05-03"
     },
     "surinam-cherry": {
       "id": "surinam-cherry",
@@ -5114,9 +4992,7 @@
         "local": "data/covers/fruit-surinam-cherry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Eugenia_brasiliensis.JPG",
-      "wiki_image": "Eugenia_brasiliensis.JPG"
+      "updated_at": "2026-05-03"
     },
     "miracle-fruit": {
       "id": "miracle-fruit",
@@ -5173,9 +5049,7 @@
         "local": "data/covers/fruit-miracle-fruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/MiracleBerry.jpg",
-      "wiki_image": "MiracleBerry.jpg"
+      "updated_at": "2026-05-03"
     },
     "barbados-cherry": {
       "id": "barbados-cherry",
@@ -5234,9 +5108,7 @@
         "local": "data/covers/fruit-barbados-cherry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Malpighia_glabra_blossom_and_fruit.jpg",
-      "wiki_image": "Malpighia_glabra_blossom_and_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "jambolan": {
       "id": "jambolan",
@@ -5292,9 +5164,7 @@
         "local": "data/covers/fruit-jambolan.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Syzygium_jambos.JPG",
-      "wiki_image": "Syzygium_jambos.JPG"
+      "updated_at": "2026-05-03"
     },
     "java-apple": {
       "id": "java-apple",
@@ -5351,9 +5221,7 @@
         "local": "data/covers/fruit-java-apple.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lainwu_%28Wax_apple%29_WP_001223.jpg",
-      "wiki_image": "Lainwu_(Wax_apple)_WP_001223.jpg"
+      "updated_at": "2026-05-03"
     },
     "salak": {
       "id": "salak",
@@ -5418,9 +5286,7 @@
         "local": "data/covers/fruit-salak.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Salak_%28Salacca_zalacca%29%2C_2015-05-17.jpg",
-      "wiki_image": "Salak_(Salacca_zalacca),_2015-05-17.jpg"
+      "updated_at": "2026-05-03"
     },
     "pomegranate": {
       "id": "pomegranate",
@@ -5477,9 +5343,7 @@
         "local": "data/covers/fruit-pomegranate.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Punica_granatum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-115.jpg",
-      "wiki_image": "Punica_granatum_-_Köhler–s_Medizinal-Pflanzen-115.jpg"
+      "updated_at": "2026-05-03"
     },
     "fig": {
       "id": "fig",
@@ -5541,9 +5405,7 @@
         "local": "data/covers/fruit-fig.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg",
-      "wiki_image": "Ficus_carica_L,_1771.jpg"
+      "updated_at": "2026-05-03"
     },
     "ugni": {
       "id": "ugni",
@@ -5598,9 +5460,7 @@
         "local": "data/covers/fruit-ugni.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Myrtus_communis_L._subsp._communis_-_52505075998.png",
-      "wiki_image": "Myrtus_communis_L._subsp._communis_-_52505075998.png"
+      "updated_at": "2026-05-03"
     },
     "yangmei-red": {
       "id": "yangmei-red",
@@ -5658,9 +5518,7 @@
         "local": "data/covers/fruit-yangmei-red.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Myrica_rubra5.jpg",
-      "wiki_image": "Myrica_rubra5.jpg"
+      "updated_at": "2026-05-03"
     },
     "prune": {
       "id": "prune",
@@ -5672,7 +5530,7 @@
         "en": null,
         "scientific": null
       },
-      "wiki_title": "西梅",
+      "wiki_title": "歐洲李",
       "family": null,
       "intro": "薔薇科李屬西梅的乾燥加工品。深紫黑色果乾，果肉甜美富含纖維，有助腸道蠕動。台灣多為進口。全年皆有，市售常見於零食區。",
       "season_months": [
@@ -5713,12 +5571,14 @@
         }
       ],
       "cover": {
-        "source_url": null,
-        "license": null,
-        "local": null
+        "source_url": "https://commons.wikimedia.org/wiki/File:C5_plum_pox_resistant_plum.jpg",
+        "license": "Public domain",
+        "local": "data/covers/fruit-prune.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03"
+      "updated_at": "2026-05-03",
+      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/C5_plum_pox_resistant_plum.jpg",
+      "wiki_image": "C5_plum_pox_resistant_plum.jpg"
     },
     "fig-dried": {
       "id": "fig-dried",
@@ -5784,9 +5644,7 @@
         "local": "data/covers/fruit-fig-dried.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg",
-      "wiki_image": "Ficus_carica_L,_1771.jpg"
+      "updated_at": "2026-05-03"
     },
     "bilimbi": {
       "id": "bilimbi",
@@ -5846,9 +5704,7 @@
         "local": "data/covers/fruit-bilimbi.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Averrhoa_bilimbi_fruit_by_Sugeesh.jpg",
-      "wiki_image": "Averrhoa_bilimbi_fruit_by_Sugeesh.jpg"
+      "updated_at": "2026-05-03"
     },
     "longkong": {
       "id": "longkong",
@@ -5904,9 +5760,7 @@
         "local": "data/covers/fruit-longkong.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lanzones.jpg",
-      "wiki_image": "Lanzones.jpg"
+      "updated_at": "2026-05-03"
     },
     "snake-fruit": {
       "id": "snake-fruit",
@@ -5959,9 +5813,7 @@
         "local": "data/covers/fruit-snake-fruit.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
-      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+      "updated_at": "2026-05-03"
     },
     "kiwi-golden": {
       "id": "kiwi-golden",
@@ -6018,9 +5870,7 @@
         "local": "data/covers/fruit-kiwi-golden.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/3840px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg",
-      "wiki_image": "Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg"
+      "updated_at": "2026-05-03"
     },
     "cranberry": {
       "id": "cranberry",
@@ -6078,9 +5928,7 @@
         "local": "data/covers/fruit-cranberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cranberry_bog.jpg",
-      "wiki_image": "Cranberry_bog.jpg"
+      "updated_at": "2026-05-03"
     },
     "blackberry": {
       "id": "blackberry",
@@ -6137,9 +5985,7 @@
         "local": "data/covers/fruit-blackberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ripe%2C_ripening%2C_and_green_blackberries.jpg",
-      "wiki_image": "Ripe,_ripening,_and_green_blackberries.jpg"
+      "updated_at": "2026-05-03"
     },
     "redcurrant": {
       "id": "redcurrant",
@@ -6194,9 +6040,7 @@
         "local": "data/covers/fruit-redcurrant.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Stachelbeeren.jpg",
-      "wiki_image": "Stachelbeeren.jpg"
+      "updated_at": "2026-05-03"
     },
     "gooseberry": {
       "id": "gooseberry",
@@ -6252,9 +6096,7 @@
         "local": "data/covers/fruit-gooseberry.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Stachelbeeren.jpg",
-      "wiki_image": "Stachelbeeren.jpg"
+      "updated_at": "2026-05-03"
     },
     "persimmon-fuyu": {
       "id": "persimmon-fuyu",
@@ -6312,9 +6154,7 @@
         "local": "data/covers/fruit-persimmon-fuyu.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/3840px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
-      "wiki_image": "Fuyu_persimmon_fruits,_one_cut_open.jpg"
+      "updated_at": "2026-05-03"
     },
     "persimmon-jiro": {
       "id": "persimmon-jiro",
@@ -6369,9 +6209,7 @@
         "local": "data/covers/fruit-persimmon-jiro.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fuyu_persimmon_fruits%2C_one_cut_open.jpg/3840px-Fuyu_persimmon_fruits%2C_one_cut_open.jpg",
-      "wiki_image": "Fuyu_persimmon_fruits,_one_cut_open.jpg"
+      "updated_at": "2026-05-03"
     },
     "pear-snow": {
       "id": "pear-snow",
@@ -6429,9 +6267,7 @@
         "local": "data/covers/fruit-pear-snow.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
-      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+      "updated_at": "2026-05-03"
     },
     "pear-shingo": {
       "id": "pear-shingo",
@@ -6487,9 +6323,7 @@
         "local": "data/covers/fruit-pear-shingo.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Asian.pear-Pyrus.pyrifolia-05.jpg",
-      "wiki_image": "Asian.pear-Pyrus.pyrifolia-05.jpg"
+      "updated_at": "2026-05-03"
     },
     "lime": {
       "id": "lime",
@@ -6548,9 +6382,7 @@
         "local": "data/covers/fruit-lime.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lim%C3%A3o_Citrus_Aurantifolia.JPG",
-      "wiki_image": "Limão_Citrus_Aurantifolia.JPG"
+      "updated_at": "2026-05-03"
     },
     "kalamansi": {
       "id": "kalamansi",
@@ -6614,9 +6446,7 @@
         "local": "data/covers/fruit-kalamansi.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Calamondin_in_our_front_yard.jpg",
-      "wiki_image": "Calamondin_in_our_front_yard.jpg"
+      "updated_at": "2026-05-03"
     },
     "white-guava": {
       "id": "white-guava",
@@ -6685,9 +6515,7 @@
         "local": "data/covers/fruit-white-guava.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Psidium_guajava_fruit.jpg",
-      "wiki_image": "Psidium_guajava_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "red-guava": {
       "id": "red-guava",
@@ -6748,9 +6576,7 @@
         "local": "data/covers/fruit-red-guava.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Psidium_guajava_fruit.jpg",
-      "wiki_image": "Psidium_guajava_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "kasturi-mango": {
       "id": "kasturi-mango",
@@ -6808,9 +6634,7 @@
         "local": "data/covers/fruit-kasturi-mango.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
-      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+      "updated_at": "2026-05-03"
     },
     "irwin-mango": {
       "id": "irwin-mango",
@@ -6868,9 +6692,7 @@
         "local": "data/covers/fruit-irwin-mango.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
-      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+      "updated_at": "2026-05-03"
     },
     "keitt-mango": {
       "id": "keitt-mango",
@@ -6927,9 +6749,7 @@
         "local": "data/covers/fruit-keitt-mango.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
-      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+      "updated_at": "2026-05-03"
     },
     "golden-mango": {
       "id": "golden-mango",
@@ -6987,9 +6807,7 @@
         "local": "data/covers/fruit-golden-mango.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Xo%C3%A0i_%E1%BB%9F_Nam_Vi%E1%BB%87t_Nam..jpg",
-      "wiki_image": "Xoài_ở_Nam_Việt_Nam..jpg"
+      "updated_at": "2026-05-03"
     },
     "sanrengo-pomelo": {
       "id": "sanrengo-pomelo",
@@ -7045,9 +6863,7 @@
         "local": "data/covers/fruit-sanrengo-pomelo.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/3840px-Pomelo_fruit.jpg",
-      "wiki_image": "Pomelo_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "red-pomelo": {
       "id": "red-pomelo",
@@ -7109,9 +6925,7 @@
         "local": "data/covers/fruit-red-pomelo.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pomelo_fruit.jpg/3840px-Pomelo_fruit.jpg",
-      "wiki_image": "Pomelo_fruit.jpg"
+      "updated_at": "2026-05-03"
     },
     "hami-melon": {
       "id": "hami-melon",
@@ -7170,9 +6984,7 @@
         "local": "data/covers/fruit-hami-melon.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Muskmelon.jpg",
-      "wiki_image": "Muskmelon.jpg"
+      "updated_at": "2026-05-03"
     },
     "pineapple-mountain": {
       "id": "pineapple-mountain",
@@ -7229,9 +7041,7 @@
         "local": "data/covers/fruit-pineapple-mountain.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pineapple_Oahu.jpg",
-      "wiki_image": "Pineapple_Oahu.jpg"
+      "updated_at": "2026-05-03"
     },
     "pineapple-cayenne": {
       "id": "pineapple-cayenne",
@@ -7288,9 +7098,7 @@
         "local": "data/covers/fruit-pineapple-cayenne.jpg"
       },
       "review_status": "reviewed",
-      "updated_at": "2026-05-03",
-      "wiki_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pineapple_Oahu.jpg",
-      "wiki_image": "Pineapple_Oahu.jpg"
+      "updated_at": "2026-05-03"
     }
   }
 }
